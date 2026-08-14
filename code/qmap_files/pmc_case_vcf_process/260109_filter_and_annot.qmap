@@ -1,0 +1,12 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 8
+memory = 15G
+[jobs]
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/filter_and_annot_muts.py -i /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/DIAF_vs_BLOOD/process_vep_output/ -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/DIAF_vs_BLOOD/filter_and_annot/ -t_id DIAF -n_id BLOOD -ccf 0.65 -c intersect -cnv /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0101/purple/DIAF.purple.cnv.somatic.tsv -pur 0.99
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/filter_and_annot_muts.py -i /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/OMEN_vs_BLOOD/process_vep_output/ -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/OMEN_vs_BLOOD/filter_and_annot/ -t_id OMEN -n_id BLOOD -ccf 0.6493593710170357 -c intersect -cnv /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0102/purple/OMEN.purple.cnv.somatic.tsv -pur 0.88
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/filter_and_annot_muts.py -i /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LN_vs_BLOOD/process_vep_output/ -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LN_vs_BLOOD/filter_and_annot/ -t_id LN -n_id BLOOD -ccf 0.75 -c intersect -cnv /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0103/purple/LN.purple.cnv.somatic.tsv -pur 0.99
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/filter_and_annot_muts.py -i /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LNMETA_vs_BLOOD/process_vep_output/ -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LNMETA_vs_BLOOD/filter_and_annot/ -t_id LNMETA -n_id BLOOD -ccf 0.7367237128135292 -c intersect -cnv /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0104/purple/LNMETA.purple.cnv.somatic.tsv -pur 0.99
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/filter_and_annot_muts.py -i /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/HK_vs_BLOOD/process_vep_output/ -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/HK_vs_BLOOD/filter_and_annot/ -t_id HK -n_id BLOOD -ccf 0.0 -c intersect -cnv /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0105/purple/HK.purple.cnv.somatic.tsv -pur 0.08

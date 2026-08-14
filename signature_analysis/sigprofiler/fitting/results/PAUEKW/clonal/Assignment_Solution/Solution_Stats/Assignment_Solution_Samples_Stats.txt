@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAUEKW	1267	0.958	385.932	30.46%	58.631	30.574%	0.08321	0.928

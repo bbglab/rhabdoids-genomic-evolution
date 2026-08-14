@@ -1,0 +1,9 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 1
+memory = 20G
+[jobs]
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/intersect_callers2.py -sa /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4946_vs_AX4895/vcf_processing/sage/AX4946_vs_AX4895_process.maf.gz -mu /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4946_vs_AX4895/vcf_processing/mutect/AX4946_vs_AX4895_process.maf.gz -st /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4946_vs_AX4895/vcf_processing/strelka/AX4946_vs_AX4895_process.maf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4946_vs_AX4895/vcf_processing/intersect/ -sn AX4946_vs_AX4895 -c 
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/intersect_callers2.py -sa /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4947_vs_AX4895/vcf_processing/sage/AX4947_vs_AX4895_process.maf.gz -mu /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4947_vs_AX4895/vcf_processing/mutect/AX4947_vs_AX4895_process.maf.gz -st /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4947_vs_AX4895/vcf_processing/strelka/AX4947_vs_AX4895_process.maf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4947_vs_AX4895/vcf_processing/intersect/ -sn AX4947_vs_AX4895 -c 

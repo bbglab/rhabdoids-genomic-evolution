@@ -1,0 +1,2 @@
+Samples	SBS1	SBS5	SBS57	SBS90
+pt12_t1	0	0	113	67

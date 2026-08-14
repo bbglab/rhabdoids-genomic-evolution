@@ -1,0 +1,40 @@
+************************ Stepwise Description of Signature Assignment to Samples ************************
+
+
+
+
+                    ################ Sample 1 #################
+############################# Initial Composition ####################################
+   SBS5  SBS36
+0  23.0    4.0
+L2 Error %: 0.88
+Cosine Similarity: 0.48
+############################## Composition After Initial Remove ###############################
+   SBS5
+0  27.0
+L2 Error %: 0.89
+Cosine Similarity: 0.46
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['SBS5']
+L2 Error % 0.89
+Cosine Similarity 0.46
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['SBS5']
+L2 Error % 0.89
+Cosine Similarity 0.46
+
+#################### Final Composition #################################
+['SBS5']
+L2 Error % 0.89
+Cosine Similarity 0.46
+####################################### Composition After Add-Remove #######################################
+   SBS5
+0  27.0
+L2 Error %: 0.89
+Cosine Similarity: 0.46

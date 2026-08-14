@@ -1,0 +1,40 @@
+************************ Stepwise Description of Signature Assignment to Samples ************************
+
+
+
+
+                    ################ Sample 1 #################
+############################# Initial Composition ####################################
+    SBS1  SBS2    SBS5   SBS8  SBS13  SBS17a  SBS17b
+0  198.0  87.0  1192.0  440.0  138.0    76.0   203.0
+L2 Error %: 0.26
+Cosine Similarity: 0.97
+############################## Composition After Initial Remove ###############################
+         SBS1         SBS5        SBS8       SBS13      SBS17b
+0  192.475746  1380.221816  423.470266  133.642594  204.189578
+L2 Error %: 0.33
+Cosine Similarity: 0.95
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['SBS1', 'SBS2', 'SBS5', 'SBS8', 'SBS13', 'SBS17a', 'SBS17b']
+L2 Error % 0.26
+Cosine Similarity 0.97
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['SBS1', 'SBS2', 'SBS5', 'SBS8', 'SBS13', 'SBS17a', 'SBS17b']
+L2 Error % inf
+Cosine Similarity 0.97
+
+#################### Final Composition #################################
+['SBS1', 'SBS2', 'SBS5', 'SBS8', 'SBS13', 'SBS17a', 'SBS17b']
+L2 Error % 0.26
+Cosine Similarity 0.97
+####################################### Composition After Add-Remove #######################################
+    SBS1  SBS2    SBS5   SBS8  SBS13  SBS17a  SBS17b
+0  198.0  88.0  1190.0  440.0  138.0    77.0   203.0
+L2 Error %: 0.26
+Cosine Similarity: 0.97

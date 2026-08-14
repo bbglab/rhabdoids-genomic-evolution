@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAJMRB	312	0.941	137.315	44.011%	19.537	34.483%	0.21783	0.915

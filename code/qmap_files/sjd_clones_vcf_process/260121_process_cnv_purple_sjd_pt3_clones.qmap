@@ -1,0 +1,9 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 1
+memory = 8G
+[jobs]
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_cnv_purple.py -i /data/bbg/datasets/rhabdoid_tumors/sjd_cohort/oncoanalyser_results/output/pt3_1_1/purple/AX4946.purple.cnv.gene.tsv -o /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4946_vs_AX4895/process_cnv/purple/ -t_id AX4946 -n_id AX4895
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_cnv_purple.py -i /data/bbg/datasets/rhabdoid_tumors/sjd_cohort/oncoanalyser_results/output/pt3_1_2/purple/AX4947.purple.cnv.gene.tsv -o /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4947_vs_AX4895/process_cnv/purple/ -t_id AX4947 -n_id AX4895

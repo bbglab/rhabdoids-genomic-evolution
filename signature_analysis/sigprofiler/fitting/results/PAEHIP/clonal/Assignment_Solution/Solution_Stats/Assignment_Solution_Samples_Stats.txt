@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAEHIP	180	0.895	112.194	62.33%	16.506	46.064%	0.39458	0.859

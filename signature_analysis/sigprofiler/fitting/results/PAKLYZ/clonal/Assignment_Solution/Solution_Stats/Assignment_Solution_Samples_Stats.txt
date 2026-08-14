@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAKLYZ	1131	0.949	351.012	31.036%	51.94	31.799%	0.09909	0.897

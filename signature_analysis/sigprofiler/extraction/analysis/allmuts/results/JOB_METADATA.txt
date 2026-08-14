@@ -1,0 +1,103 @@
+THIS FILE CONTAINS THE METADATA ABOUT SYSTEM AND RUNTIME
+
+
+-------System Info-------
+Operating System Name: Linux
+Nodename: irbccn26.sc.irbbarcelona.org
+Release: 5.14.0-570.17.1.el9_6.x86_64
+Version: #1 SMP PREEMPT_DYNAMIC Fri May 23 22:47:01 UTC 2025
+
+-------Python and Package Versions------- 
+Python Version: 3.13.5
+SigProfilerExtractor Version: 1.2.1
+SigProfilerPlotting Version: 1.4.1
+SigProfilerMatrixGenerator Version: 1.3.4
+SigProfilerAssignment Version: 0.2.3
+Pandas version: 2.3.0
+Numpy version: 2.3.0
+Scipy version: 1.15.3
+Scikit-learn version: 1.7.0
+
+--------------EXECUTION PARAMETERS--------------
+INPUT DATA
+	input_type: matrix
+	output: results
+	input_data: output/SBS/allmuts.SBS96.all
+	reference_genome: GRCh38
+	context_types: SBS96
+	exome: False
+NMF REPLICATES
+	minimum_signatures: 2
+	maximum_signatures: 10
+	NMF_replicates: 100
+NMF ENGINE
+	NMF_init: random
+	precision: single
+	matrix_normalization: gmm
+	resample: True
+	seeds: random
+	min_NMF_iterations: 10,000
+	max_NMF_iterations: 1,000,000
+	NMF_test_conv: 10,000
+	NMF_tolerance: 1e-15
+CLUSTERING
+	clustering_distance: cosine
+EXECUTION
+	cpu: 24; Maximum number of CPU is 192
+	gpu: False
+Solution Estimation
+	stability: 0.8
+	min_stability: 0.2
+	combined_stability: 1.0
+	allow_stability_drop: False
+COSMIC MATCH
+	opportunity_genome: GRCh38
+	cosmic_version: 3.4
+	nnls_add_penalty: 0.05
+	nnls_remove_penalty: 0.01
+	initial_remove_penalty: 0.05
+	export_probabilities: True
+	collapse_to_SBS96: True
+
+-------Analysis Progress------- 
+[2026-02-04 11:46:24] Analysis started: 
+
+##################################
+
+[2026-02-04 11:46:24] Analysis started for SBS96. Matrix size [96 rows x 114 columns]
+
+[2026-02-04 11:46:24] Normalization GMM with cutoff value set at 9600
+
+[2026-02-04 11:47:00] SBS96 de novo extraction completed for a total of 2 signatures! 
+Execution time:0:00:35
+
+[2026-02-04 11:48:08] SBS96 de novo extraction completed for a total of 3 signatures! 
+Execution time:0:01:08
+
+[2026-02-04 11:49:13] SBS96 de novo extraction completed for a total of 4 signatures! 
+Execution time:0:01:05
+
+[2026-02-04 11:50:08] SBS96 de novo extraction completed for a total of 5 signatures! 
+Execution time:0:00:54
+
+[2026-02-04 11:51:24] SBS96 de novo extraction completed for a total of 6 signatures! 
+Execution time:0:01:15
+
+[2026-02-04 11:52:37] SBS96 de novo extraction completed for a total of 7 signatures! 
+Execution time:0:01:13
+
+[2026-02-04 11:53:40] SBS96 de novo extraction completed for a total of 8 signatures! 
+Execution time:0:01:02
+
+[2026-02-04 11:54:56] SBS96 de novo extraction completed for a total of 9 signatures! 
+Execution time:0:01:16
+
+[2026-02-04 11:56:12] SBS96 de novo extraction completed for a total of 10 signatures! 
+Execution time:0:01:16
+
+[2026-02-04 11:56:46] Analysis ended: 
+
+-------Job Status------- 
+Analysis of mutational signatures completed successfully! 
+Total execution time: 0:10:22 
+Results can be found in:  results  folder

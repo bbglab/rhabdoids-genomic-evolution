@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAUFVP	704	0.955	228.283	32.427%	30.371	29.865%	0.10433	0.907

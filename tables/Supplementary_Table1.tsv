@@ -1,0 +1,90 @@
+CASE_ID	ORIGINAL_CASE_ID	COHORT	AGE_DIAGNOSIS	TUMOR_TYPE	PRY_TUMOR_SITE	SEX	DRIVER	GERMLINE	ALLELE1	ALLELE2	MUT_TYPE_A1	MUT_TYPE_A2	EXON_DEL_A1	EXON_DEL_A2
+PT01	pt18	SJD	0.01	MRT	Soft tissue	Female	SMARCB1	True	 I109X germline 	 V57X	snv-nonsense	snv-nonsense		
+PT02	pt4	SJD	0.02	MRT	Soft tissue	Female	SMARCB1	False	del 	 CNLOH	deep deletion	CN-LOH		
+PT03	pt13	SJD	0.06	MRT	Soft tissue	Male	SMARCB1	True	del germline 	 -37-38MFX	deep deletion	snv-nonsense		
+PT04	PAUDPV	TARGET	0.14794520547945206	MRT	Kidney	Female	SMARCB1	True	splice variant germline 	 CNLOH	splice variant	CN-LOH		
+PT05	SJ032417	StJude	0.17	ATRT	Brain	Female	SMARCB1	False	del 	 CNLOH	deep deletion	CN-LOH		
+PT06	PAJNER	TARGET	0.1726027397260274	MRT	Kidney	Female	SMARCB1	True	R53* germline 	 CNLOH	frameshift	CN-LOH		
+PT07	PASWZZ	TARGET	0.17534246575342466	MRT	Kidney	Female	SMARCB1	True	splice variant germline 	 CNLOH	splice variant	CN-LOH		
+PT08	PAVYKD	TARGET	0.18082191780821918	MRT	Kidney	Female	SMARCB1	True	exon1-3-del germline 	 CNLOH	exon deletion	CN-LOH	23785923-23799979	
+PT09	PATXKA	TARGET	0.27945205479452057	MRT	Liver	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT10	PARECB	TARGET	0.3780821917808219	MRT	Kidney	Female	SMARCB1	True	exon4-5-del germline 	 CNLOH	exon deletion	CN-LOH	23797481-23804840	
+PT11	PASVDP	TARGET	0.3863013698630137	MRT	External upper lip	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT12	PAJMBW	TARGET	0.3863013698630137	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT13	PATDVL	TARGET	0.4	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT14	PARGRN	TARGET	0.40273972602739727	MRT	Kidney	Male	SMARCB1	True	exon1-del germline 	 CNLOH	exon deletion	CN-LOH	23786499-23790458	
+PT15	SJ034089	StJude	0.42	ATRT	Brain	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT16	PAVYDM	TARGET	0.46301369863013697	MRT	Kidney	Female	SMARCB1	False	splice variant 	 del	splice variant	deep deletion		
+PT17	PASABD	TARGET	0.473972602739726	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT18	PAEHIP	TARGET	0.4794520547945205	MRT	Kidney	Male	SMARCB1	False	del 	 CNLOH	deep deletion	CN-LOH		
+PT19	pt9	SJD	0.48	MRT	Liver	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT20	SJ030997	StJude	0.5	ATRT	Brain	Female	SMARCB1	True	exon6-del germline 	 CNLOH	exon deletion	CN-LOH	23814125-23818084	
+PT21	PASYNF	TARGET	0.5616438356164384	MRT	Kidney	Male	SMARCB1	False	exon1-del 	 CNLOH	exon deletion	CN-LOH	23785907-23790112	
+PT22	PARRCL	TARGET	0.5863013698630137	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT23	PARUGK	TARGET	0.6027397260273972	MRT	Kidney	Male	SMARCB1	False	A382X 	 CNLOH	snv-nonsense	CN-LOH		
+PT24	pt12	SJD	0.62	MRT	Armpit	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT25	PAWFWK	TARGET	0.6328767123287671	MRT	Kidney	Male	SMARCB1	False	del 	 CNLOH	deep deletion	CN-LOH		
+PT26	PAUHAZ	TARGET	0.6547945205479452	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT27	SJ031235	StJude	0.67	ATRT	Brain	Female	SMARCB1	True	F164X germline 	 CNLOH	snv-nonsense	CN-LOH		
+PT28	SJ034110	StJude	0.67	ATRT	Brain	Male	SMARCB1	False	I99ILDX (exon3-ins8) 	 del	snv-nonsense	deep deletion		
+PT29	PARTKH	TARGET	0.726027397260274	MRT	Kidney	Male	SMARCB1	True	exon6-del germline 	 CNLOH	exon deletion	CN-LOH	23815040-23817813	
+PT30	PASADZ	TARGET	0.7452054794520548	MRT	Kidney	Female	SMARCB1	True	del germline 	 F10X	deep deletion	snv-nonsense		
+PT31	SJ033236	StJude	0.75	ATRT	Brain	Female	SMARCB1	False	splice variant 	 chrom loss	splice variant	chrom loss		
+PT32	PAUCGJ	TARGET	0.7698630136986301	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT33	PASXNA	TARGET	0.7835616438356164	MRT	Kidney	Male	SMARCB1	True	exon6-del germline 	 CNLOH	exon deletion	CN-LOH	23814492-23819051	
+PT34	PAJLWM	TARGET	0.7945205479452054	MRT	Kidney	Male	SMARCB1	False	exon4-5-del 	 CNLOH	exon deletion	CN-LOH	23798768-23809462	
+PT35	PASRHU	TARGET	0.8383561643835616	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT36	PAREWI	TARGET	0.8410958904109589	MRT	Kidney	Female	SMARCB1	False	splice variant 	 CNLOH	splice variant	CN-LOH		
+PT37	PASZYE	TARGET	0.8547945205479452	MRT	Kidney	Male	SMARCB1	False	G317* 	 CNLOH	frameshift	CN-LOH		
+PT38	PASDLA	TARGET	0.9095890410958904	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT39	PATAFT	TARGET	0.9397260273972603	MRT	Liver	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT40	PAJNFP	TARGET	0.9643835616438357	MRT	Kidney	Male	SMARCB1	False	W283* 	 CNLOH	frameshift	CN-LOH		
+PT41	PASCDH	TARGET	0.9698630136986301	MRT	External upper lip	Male	SMARCB1	False	exon1-del 	 CNLOH	exon deletion	CN-LOH	23777147-23787384	
+PT42	PARPFY	TARGET	0.989041095890411	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT43	SJ015723	StJude	1.0	MRT	Kidney	Male	SMARCB1	False	-184-185VLX (exon5-ins8) 	 exon6-del	snv-nonsense	exon deletion		23815319-23820410
+PT44	PADWRZ	TARGET	1.0493150684931507	MRT	Kidney	Female	SMARCB1	False	V57fs 	 CNLOH	frameshift	CN-LOH		
+PT45	PATFZZ	TARGET	1.093150684931507	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT46	PABKLN	TARGET	1.095890410958904	MRT	Kidney	Male	SMARCB1	True	del germline 	 Y47*	deep deletion	frameshift		
+PT47	pt19	SJD	1.13	MRT	Liver	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT48	SJ030128	StJude	1.17	ATRT	Brain	Female	SMARCB1	False	del 	 chrom loss	deep deletion	chrom loss		
+PT49	PAUGYZ	TARGET	1.2712328767123289	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT50	PARZBI	TARGET	1.441095890410959	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT51	PAKLYZ	TARGET	1.4438356164383561	MRT	Kidney	Male	MYCN	False	MYCNamp 	 -	MYCNamp (NBL)	MYCNamp (NBL)		
+PT52	PAJMRB	TARGET	1.4821917808219178	MRT	Kidney	Female	SMARCB1	False	Q243* 	 CNLOH	frameshift	CN-LOH		
+PT53	pt6	SJD	1.52	ATRT	Brain	Male	SMARCB1	False	S66SX 	 CNLOH	snv-nonsense	CN-LOH		
+PT54	PATFXW	TARGET	1.558904109589041	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT55	SJ030707	StJude	1.58	ATRT	Brain	Male	SMARCB1	False	A382X 	 chrom loss	snv-nonsense	chrom loss		
+PT56	PATXEE	TARGET	1.5890410958904109	MRT	Kidney	Female	SMARCB1	False	R53* 	 CNLOH	frameshift	CN-LOH		
+PT57	PAJNFZ	TARGET	1.621917808219178	MRT	Kidney	Male	SMARCB1	True	Y47YX germline 	 CNLOH	snv-nonsense	CN-LOH		
+PT58	PARZRH	TARGET	1.673972602739726	MRT	Kidney	Male	SMARCB1	False	R40* 	  EE97-98EX	frameshift	snv-nonsense		
+PT59	PAVCKS	TARGET	1.7808219178082192	MRT	Kidney	Male	SMARCB1	False	Q318* 	 CNLOH	frameshift	CN-LOH		
+PT60	PAWFBL	TARGET	1.8602739726027397	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT61	pt7	SJD	1.98	ATRT	Brain	Male	SMARCB1	False	exon5-del 	 CNLOH	exon deletion	CN-LOH	23802515-23804023	
+PT62	SJ031948	StJude	2.0	ATRT	Brain	Female	SMARCB1	False	del 	 CNLOH	deep deletion	CN-LOH		
+PT63	PAUFVP	TARGET	2.0273972602739727	MRT	Kidney	Male	SMARCB1	False	del 	 CNLOH	deep deletion	CN-LOH		
+PT64	PATBLF	TARGET	2.084931506849315	MRT	External upper lip	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT65	SJ031605	StJude	2.25	ATRT	Brain	Male	SMARCB1	False	S258SDX and L303X 	 chrom loss	snv-nonsense	chrom loss		
+PT66	PASGCL	TARGET	2.2739726027397262	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT67	PAKTCT	TARGET	2.3643835616438356	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT68	SJ030255	StJude	2.42	ATRT	Brain	Male	SMARCB1	False	del 	 chrom loss	deep deletion	chrom loss		
+PT69	PAVITI	TARGET	2.4904109589041097	MRT	Kidney	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT70	PMC01	PMC	2.5	MRT	Soft tissue	Female	SMARCB1	False	PS48-49X 	 CNLOH	snv-nonsense	CN-LOH		
+PT71	pt17	SJD	2.55	ATRT	Brain	Male	SMARCB1	False	del 	 chrom loss	deep deletion	chrom loss		
+PT72	PAWDGA	TARGET	2.578082191780822	MRT	Kidney	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT73	PATENH	TARGET	2.5972602739726027	MRT	Kidney	Female	SMARCB1	False	Y81* 	 CNLOH	frameshift	CN-LOH		
+PT74	SJ030896	StJude	2.75	ATRT	Brain	Male	SMARCB1	False	W206* 	 chrom loss	frameshift	chrom loss		
+PT75	PAUNPA	TARGET	2.8438356164383563	MRT	Kidney	Male	SMARCB1	False	exon1-del 	 CNLOH	exon deletion	CN-LOH	23786602-23788922	
+PT76	PADYZI	TARGET	2.9726027397260273	MRT	Kidney	Male	SMARCB1	True	W206* germline 	 F10X germline	frameshift	snv-nonsense		
+PT77	pt8	SJD	3.0	ATRT	Brain	Male	SMARCB1	False	exon6-9-del 	  CNLOH	exon deletion	CN-LOH	23807961-23828189	
+PT78	PAKHTL	TARGET	3.126027397260274	MRT	Kidney	Male	SMARCB1	False	W281* 	 del	frameshift	deep deletion		
+PT79	PARIRN	TARGET	4.016438356164383	MRT	Kidney	Female	SMARCA4	True	N248X germline 	 CNLOH	snv-nonsense	CN-LOH		
+PT80	SJ032346	StJude	4.17	ATRT	Brain	Female	SMARCB1	False	exon6-del 	 CNLOH	exon deletion	CN-LOH	23812743-23820619	
+PT81	pt3	SJD	4.75	MRT	Kidney	Male	SMARCB1	False	R40* 	 exon1-del	frameshift	exon deletion		23785923-23787300
+PT82	pt11	SJD	5.57	ATRT	Brain	Female	SMARCB1	False	Q123* 	 chrom loss	frameshift	chrom loss		
+PT83	pt1	SJD	8.29	MRT	Pelvis	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT84	pt14	SJD	10.02	MRT	Adrenal tissue	Female	SMARCB1	False	VG279-280X 	 del	snv-nonsense	deep deletion		
+PT85	SJ030581	StJude	10.25	ATRT	Brain	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT86	pt5	SJD	13.5	MRT	Paraspinal	Male	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT87	SJ032393	StJude	14.0	ATRT	Brain	Female	SMARCB1	False	del 	 del	deep deletion	deep deletion		
+PT88	PAUEKW	TARGET	14.756164383561643	MRT	Kidney	Female	SMARCB1	False	exon1-5-del 	 del	exon deletion	deep deletion	23776542-23809445	
+PT89	pt15	SJD	14.79	MRT	Pelvis	Female	SMARCA4	True	R1093* germline 	 CNLOH	frameshift	CN-LOH		

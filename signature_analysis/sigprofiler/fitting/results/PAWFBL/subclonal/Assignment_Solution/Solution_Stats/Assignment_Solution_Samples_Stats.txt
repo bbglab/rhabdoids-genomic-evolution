@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAWFBL	35	0.661	38.791	110.831%	5.267	75.243%	0.90697	0.496

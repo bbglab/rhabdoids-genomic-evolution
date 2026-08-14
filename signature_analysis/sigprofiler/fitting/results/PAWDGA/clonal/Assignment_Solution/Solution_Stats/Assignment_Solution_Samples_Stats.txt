@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAWDGA	792	0.931	295.467	37.306%	43.896	37.974%	0.14653	0.873

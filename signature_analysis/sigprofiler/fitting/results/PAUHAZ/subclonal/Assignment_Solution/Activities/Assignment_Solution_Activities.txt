@@ -1,0 +1,2 @@
+Samples	SBS1	SBS5	SBS8
+PAUHAZ	18	0	79

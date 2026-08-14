@@ -1,0 +1,2 @@
+Samples	SBS1	SBS5	SBS8	SBS57
+pt17_t1	50	0	105	163

@@ -1,0 +1,2 @@
+Samples	SBS1	SBS5	SBS90
+pt14_t1	74	1283	0

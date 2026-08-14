@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAKTCT	42	0.619	49.836	118.657%	6.85	78.575%	1.07779	0.432

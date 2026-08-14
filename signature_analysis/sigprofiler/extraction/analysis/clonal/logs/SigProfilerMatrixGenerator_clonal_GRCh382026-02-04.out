@@ -1,0 +1,97 @@
+THIS FILE CONTAINS THE METADATA ABOUT SYSTEM AND RUNTIME
+
+
+-------System Info-------
+Operating System Name: Linux
+Nodename: irbccn26.sc.irbbarcelona.org
+Release: 5.14.0-570.17.1.el9_6.x86_64
+Version: #1 SMP PREEMPT_DYNAMIC Fri May 23 22:47:01 UTC 2025
+
+-------Python and Package Versions------- 
+Python Version: 3.13.5
+SigProfilerMatrixGenerator Version: 1.3.4
+SigProfilerPlotting version: 1.4.1
+matplotlib version: 3.10.3
+statsmodels version: 0.14.4
+scipy version: 1.15.3
+pandas version: 2.3.0
+numpy version: 2.3.0
+
+-------Vital Parameters Used for the execution -------
+Project: clonal
+Genome: GRCh38
+Input File Path: /data/bbg/projects/rhabdoid_tumors/signatures/extraction/sigprofiler/analysis/260126_sjd_target_stjude_and_clones/clonal/
+exome: False
+bed_file: None
+chrom_based: False
+plot: False
+tsb_stat: False
+seqInfo: False
+
+-------Date and Time Data------- 
+Date and Clock time when the execution started: 2026-02-04 11:58:38.708704
+
+
+-------Runtime Checkpoints------- 
+There appears to be a duplicate single base substitution. Skipping this mutation: 14 86186526 C T
+There appears to be a duplicate single base substitution. Skipping this mutation: 6 85852646 C T
+There appears to be a duplicate single base substitution. Skipping this mutation: 4 34725122 C A
+There appears to be a duplicate single base substitution. Skipping this mutation: X 26667428 T A
+There appears to be a duplicate single base substitution. Skipping this mutation: 1 230517917 T G
+There appears to be a duplicate single base substitution. Skipping this mutation: 10 78248544 G T
+There appears to be a duplicate single base substitution. Skipping this mutation: 1 8057739 T G
+There appears to be a duplicate single base substitution. Skipping this mutation: X 11044981 C A
+There appears to be a duplicate single base substitution. Skipping this mutation: 1 147566766 G A
+There appears to be a duplicate single base substitution. Skipping this mutation: 11 32789616 C A
+There appears to be a duplicate single base substitution. Skipping this mutation: 14 86186526 C T
+There appears to be a duplicate single base substitution. Skipping this mutation: 6 85852646 C T
+There appears to be a duplicate single base substitution. Skipping this mutation: X 26667428 T A
+There appears to be a duplicate single base substitution. Skipping this mutation: 7 117849162 G A
+There appears to be a duplicate single base substitution. Skipping this mutation: 15 93593950 T A
+There appears to be a duplicate single base substitution. Skipping this mutation: 22 25298940 A T
+There appears to be a duplicate single base substitution. Skipping this mutation: 3 69445802 G A
+There appears to be a duplicate single base substitution. Skipping this mutation: 11 66855847 T C
+There appears to be a duplicate single base substitution. Skipping this mutation: 11 1439894 A G
+There appears to be a duplicate single base substitution. Skipping this mutation: 12 62652811 A G
+There appears to be a duplicate single base substitution. Skipping this mutation: 4 61081652 T G
+There appears to be a duplicate single base substitution. Skipping this mutation: 4 16023107 G C
+There appears to be a duplicate single base substitution. Skipping this mutation: X 11425245 C A
+There appears to be a duplicate single base substitution. Skipping this mutation: X 84061682 C G
+There appears to be a duplicate single base substitution. Skipping this mutation: 13 70484362 G A
+There appears to be a duplicate single base substitution. Skipping this mutation: 7 14637468 G A
+There appears to be a duplicate single base substitution. Skipping this mutation: 12 11566418 G T
+There appears to be a duplicate single base substitution. Skipping this mutation: 12 80773783 T A
+There appears to be a duplicate single base substitution. Skipping this mutation: 2 163038147 G T
+There appears to be a duplicate single base substitution. Skipping this mutation: 1 40661717 C T
+There appears to be a duplicate single base substitution. Skipping this mutation: 1 87599850 C T
+There appears to be a duplicate single base substitution. Skipping this mutation: 19 58121494 C T
+There appears to be a duplicate single base substitution. Skipping this mutation: 22 29011882 A G
+There appears to be a duplicate single base substitution. Skipping this mutation: 4 79917153 T C
+There appears to be a duplicate single base substitution. Skipping this mutation: 6 45551012 T C
+There appears to be a duplicate single base substitution. Skipping this mutation: 6 108476767 T C
+There appears to be a duplicate single base substitution. Skipping this mutation: 6 130574954 A T
+Chromosome 10 done
+Chromosome 11 done
+Chromosome 12 done
+Chromosome 13 done
+Chromosome 14 done
+Chromosome 15 done
+Chromosome 16 done
+Chromosome 17 done
+Chromosome 18 done
+Chromosome 19 done
+Chromosome 1 done
+Chromosome 20 done
+Chromosome 21 done
+Chromosome 22 done
+Chromosome 2 done
+Chromosome 3 done
+Chromosome 4 done
+Chromosome 5 done
+Chromosome 6 done
+Chromosome 7 done
+Chromosome 8 done
+Chromosome 9 done
+Chromosome MT done
+Chromosome X done
+Chromosome Y done
