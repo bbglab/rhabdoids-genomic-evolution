@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PASVDP	365	0.892	168.808	46.249%	24.451	46.788%	0.21657	0.782

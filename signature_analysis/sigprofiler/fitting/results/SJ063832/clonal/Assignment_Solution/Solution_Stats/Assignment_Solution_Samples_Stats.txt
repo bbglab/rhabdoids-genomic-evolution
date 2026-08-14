@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+SJ063832	17564	0.957	4921.893	28.023%	683.159	31.449%	0.06807	0.893

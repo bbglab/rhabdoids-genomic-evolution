@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAJLWM	70	0.664	72.918	104.169%	10.584	74.84%	0.81968	0.5

@@ -1,0 +1,2 @@
+Samples	SBS1	SBS5	SBS36
+pt6_t1	109	568	127

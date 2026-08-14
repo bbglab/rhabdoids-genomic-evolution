@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAVCKS	1098	0.927	379.791	34.589%	56.863	38.152%	0.11305	0.833

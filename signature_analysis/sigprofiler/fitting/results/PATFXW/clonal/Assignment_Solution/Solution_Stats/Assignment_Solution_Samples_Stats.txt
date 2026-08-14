@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PATFXW	482	0.905	227.557	47.211%	31.72	43.189%	0.23252	0.824

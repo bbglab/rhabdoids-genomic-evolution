@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PATENH	661	0.936	276.653	41.854%	39.019	38.157%	0.16745	0.895

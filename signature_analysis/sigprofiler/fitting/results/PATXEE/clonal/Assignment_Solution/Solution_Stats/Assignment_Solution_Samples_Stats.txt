@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PATXEE	483	0.902	224.617	46.505%	32.22	45.06%	0.23071	0.819

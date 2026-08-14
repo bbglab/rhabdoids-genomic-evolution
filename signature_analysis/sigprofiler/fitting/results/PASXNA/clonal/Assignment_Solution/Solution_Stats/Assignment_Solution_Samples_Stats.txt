@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PASXNA	496	0.925	189.94	38.294%	25.633	39.172%	0.13934	0.819

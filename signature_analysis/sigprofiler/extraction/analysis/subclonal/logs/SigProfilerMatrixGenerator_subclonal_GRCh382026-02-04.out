@@ -1,0 +1,66 @@
+THIS FILE CONTAINS THE METADATA ABOUT SYSTEM AND RUNTIME
+
+
+-------System Info-------
+Operating System Name: Linux
+Nodename: irbccn26.sc.irbbarcelona.org
+Release: 5.14.0-570.17.1.el9_6.x86_64
+Version: #1 SMP PREEMPT_DYNAMIC Fri May 23 22:47:01 UTC 2025
+
+-------Python and Package Versions------- 
+Python Version: 3.13.5
+SigProfilerMatrixGenerator Version: 1.3.4
+SigProfilerPlotting version: 1.4.1
+matplotlib version: 3.10.3
+statsmodels version: 0.14.4
+scipy version: 1.15.3
+pandas version: 2.3.0
+numpy version: 2.3.0
+
+-------Vital Parameters Used for the execution -------
+Project: subclonal
+Genome: GRCh38
+Input File Path: /data/bbg/projects/rhabdoid_tumors/signatures/extraction/sigprofiler/analysis/260126_sjd_target_stjude_and_clones/subclonal/
+exome: False
+bed_file: None
+chrom_based: False
+plot: False
+tsb_stat: False
+seqInfo: False
+
+-------Date and Time Data------- 
+Date and Clock time when the execution started: 2026-02-04 12:09:39.844644
+
+
+-------Runtime Checkpoints------- 
+There appears to be a duplicate single base substitution. Skipping this mutation: 1 70363783 G C
+There appears to be a duplicate single base substitution. Skipping this mutation: 13 98875327 T A
+There appears to be a duplicate single base substitution. Skipping this mutation: 15 81438023 A T
+There appears to be a duplicate single base substitution. Skipping this mutation: 19 520116 G T
+There appears to be a duplicate single base substitution. Skipping this mutation: 9 84840723 C A
+There appears to be a duplicate single base substitution. Skipping this mutation: 7 136134444 C A
+Chromosome 10 done
+Chromosome 11 done
+Chromosome 12 done
+Chromosome 13 done
+Chromosome 14 done
+Chromosome 15 done
+Chromosome 16 done
+Chromosome 17 done
+Chromosome 18 done
+Chromosome 19 done
+Chromosome 1 done
+Chromosome 20 done
+Chromosome 21 done
+Chromosome 22 done
+Chromosome 2 done
+Chromosome 3 done
+Chromosome 4 done
+Chromosome 5 done
+Chromosome 6 done
+Chromosome 7 done
+Chromosome 8 done
+Chromosome 9 done
+Chromosome MT done
+Chromosome X done
+Chromosome Y done

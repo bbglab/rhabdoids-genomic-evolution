@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PARZBI	587	0.897	259.034	44.128%	37.991	46.584%	0.17765	0.789

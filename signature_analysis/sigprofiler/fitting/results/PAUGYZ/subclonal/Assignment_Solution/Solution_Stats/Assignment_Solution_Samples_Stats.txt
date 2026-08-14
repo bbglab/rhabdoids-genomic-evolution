@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAUGYZ	97	0.807	67.797	69.894%	9.006	60.04%	0.44997	0.635

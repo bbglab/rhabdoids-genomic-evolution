@@ -1,0 +1,118 @@
+					SNVs/Indels							Copy number			Structural variants								
+PATIENT	TUMOR	SAMPLE	COHORT	SYMBOL	variant_type	Consequence	aa_change	mut	Damaging	origin	VAF	CNA	CN	Germline CNA	mut_sv	fusion	chr/chr	germ_som	CNLOH	SMARCB1 status	chr22_del_a1	chr22_del_a2	Excluded_samples
+pt1	tumor1	AX4912_vs_AX4894	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	-0.0357	-	NaN	NaN	NaN	FALSE	FALSE	del / del			
+pt1	tumor2	AX4937_vs_AX4894	SJD	SMARCB1															FALSE	del / del			
+pt3	tumor1	AX4914_vs_AX4895	SJD	SMARCB1	truncating	stop_gained	R40*	chr22:23791780:C>T	1	somatic		-	2.1131	-	nan:23787300:C>]chr22:23785923]C	SMARCB1/-	chr22	FALSE	FALSE	R40* / exon1-del		23785923-23787300	
+pt3	tumor2	AX4915_vs_AX4895	SJD	SMARCB1	truncating	stop_gained	R40*	chr22:23791780:C>T	1	somatic		-	1.9834	-	nan:23787300:C>]chr22:23785923]C	SMARCB1/-	chr22	FALSE	FALSE	R40* / exon1-del		23785923-23787300	
+pt4	tumor1	AX4916_vs_AX4896	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	-0.022	-	NaN	NaN	NaN	FALSE	TRUE	del / CNLOH			
+pt4	tumor2	AX4938_vs_AX4896	SJD	SMARCB1															TRUE	del / CNLOH			
+pt5	tumor1	AX4918_vs_AX4897	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	-0.0571	-	NaN	NaN	NaN	FALSE	FALSE	del / del			
+pt5	tumor2	AX4944_vs_AX489	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	0.169	-	NaN	NaN	NaN	FALSE	FALSE	del / del			
+pt6	tumor1	AX4945_vs_AX4898	SJD	SMARCB1	truncating	frameshift_variant	S66SX	chr22:23791860:->A	1	somatic		amp	53.5587	-	NaN	NaN	NaN	FALSE	TRUE	S66SX / CNLOH			
+pt6	tumor2	AX4921_vs_AX4898	SJD	SMARCB1	truncating	frameshift_variant	S66SX	chr22:23791860:->A	1	somatic		-	2.0183	-	NaN	NaN	NaN	FALSE	TRUE	S66SX / CNLOH			
+pt7	tumor1	AX4922_vs_AX4899	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		NaN	NaN	-	nan:23802515:T>T[chr22:23804023[	SMARCB1-del	chr22	FALSE	TRUE	exon5-del / CNLOH	23802515-23804023		
+pt8	tumor1	AX4930_vs_AX4900	SJD	SMARCB1															TRUE	exon6-9-del /  CNLOH	23807961-23828189		
+pt9	tumor1	AX4924_vs_AX4901	SJD	SMARCB1																			Excluded due to low quality
+pt9	tumor2	AX4925_vs_AX4901	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	-0.0378	-	NaN	NaN	NaN	FALSE	FALSE	del / del			
+pt11	tumor1	AX4951_vs_AX4903	SJD	SMARCB1	truncating	stop_gained	Q123*	chr22:23800948:C>T	0.911608	somatic									FALSE	Q123* / chrom loss			
+pt12	tumor1	AX4926_vs_AX4904	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	1.1894	-	NaN	NaN	NaN	FALSE	FALSE	 del / del			Excluded due to low quality
+pt12	tumor 2	AX4940_vs_AX4904	SJD	SMARCB1															FALSE	del / del			
+pt13	tumor1	AX4927_vs_AX4905	SJD	SMARCB1	truncating	frameshift_variant	-37-38MFX	chr22:23791774:->ATGTTCC	1	somatic		-	1.8968	del	NaN	NaN	NaN	TRUE	FALSE	del germline / -37-38MFX			
+pt14	tumor1	AX4928_vs_AQ5174	SJD	SMARCB1	truncating	frameshift_variant	VG279-280X	chr22:23825237:GTGGG>-	1	somatic		del	0.896	-	NaN	NaN	NaN	FALSE	FALSE	VG279-280X / del			
+pt14	tumor2	AX4929_vs_AQ5174	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	0.3715	-	NaN	NaN	NaN	FALSE	FALSE	del / del?			Excluded due to low quality
+pt15	tumor1	AX4923_vs_AX4906	SJD	SMARCA4	truncating	stop_gained	R1093*	chr19:11027845:C>T	1	germline		-		-					TRUE	R1093* germline / CNLOH			
+pt16	tumor1	AX4931_vs_AX4907	SJD	SMARCB1	truncating	frameshift_variant	T390X	chr22:23834165:G>-	1	somatic		amp	2.341	del	NaN	NaN	NaN	FALSE	FALSE	T390X / del germline			Excluded due to low quality
+pt17	tumor1	AX4932_vs_AX4908	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	-0.107	-	NaN	NaN	NaN	FALSE	FALSE	del / chrom loss			
+pt18	tumor1	AX4933_vs_AX4909	SJD	SMARCB1	truncating	frameshift_variant	V57X	chr22:23791833:G>-	1	somatic		amp	5.1347	-	NaN	NaN	NaN	FALSE	FALSE	 I109X germline / V57X			
+pt18	tumor1	AX4933_vs_AX4909	SJD	SMARCB1	truncating	frameshift_variant	I109X	chr22:23793678->G	TRUE	germline									FALSE	 I109X germline / V57X			
+pt18	tumor2	AX4934_vs_AX4909	SJD	SMARCB1	truncating	frameshift_variant	V57X	chr22:23791833:G>-	1	somatic		-	2.0283	-	NaN	NaN	NaN	FALSE	FALSE	 I109X germline / V57X			
+pt18	tumor2	AX4934_vs_AX4909	SJD	SMARCB1	truncating	frameshift_variant	I109X	chr22:23793678->G	TRUE	germline									FALSE	 I109X germline / V57X			
+pt19	tumor1	AX4935_vs_AX4910	SJD	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic		del	-0.0878	-	NaN	NaN	NaN	FALSE	FALSE	del / del			
+pt20	tumor1	AX4936_vs_AX4911	SJD	SMARCB1	truncating	frameshift_variant	D211VPX	chr22:23803399:->TTCC	1	somatic		-	2.0158	del	NaN	NaN	NaN	FALSE	FALSE	D211VPX / del germline			Excluded due to low quality
+PABKLN	tumor1	PABKLN-01A_vs_PABKLN-11A	TARGET	SMARCB1	truncating	stop_gained	Y47*	chr22:23791803:C>A	TRUE	somatic	0.647	-	1.9762		NaN	NaN	NaN	FALSE	FALSE	del germline / Y47*			
+PADWRZ	tumor1	PADWRZ-01A_vs_PADWRZ-10A	TARGET	SMARCB1	truncating	frameshift_variant	V57VEEAPRFRQQX	chr22:23791833:->GGAAGAGGCGCCACGCTTTCGGCAGCAGA	TRUE	somatic	0.933	-	1.9809		nan:23791626:G>G[chr22:23791736[	SMARCB1-del	chr22	FALSE	TRUE	V57fs / CNLOH			
+PADYZI	tumor1	PADYZI-01A_vs_PADYZI-10A	TARGET	SMARCB1	truncating	stop_gained	W206*	chr22:23803411:G>A	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	FALSE	FALSE	W206* germline / F10X germline			
+PADYZI	tumor2	PADYZI-01A_vs_PADYZI-10A	TARGET	SMARCB1	truncating	frameshift_variant	F10X	chr22:23787197:TT>-	TRUE	germline									FALSE	W206* germline / F10X germline			
+PAEHIP	tumor1	PAEHIP-01A_vs_PAEHIP-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	NaN	NaN		nan:23812651:G>]chr22:23687385]AATATGAAG	SMARCB1/-	chr22	FALSE	TRUE	del / CNLOH			
+PAJLWM	tumor1	PAJLWM-01A_vs_PAJLWM-11A	TARGET	SMARCB1															TRUE	exon4-5-del / CNLOH	23798768-23809462		
+PAJMBW	tumor1	PAJMBW-01A_vs_PAJMBW-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.1296		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAJMRB	tumor1	PAJMRB-01A_vs_PAJMRB-11A	TARGET	SMARCB1	truncating	stop_gained	Q243*	chr22:23816868:C>T	TRUE	somatic	0.854	-	1.9883		NaN	NaN	NaN	TRUE	TRUE	Q243* / CNLOH			
+PAJNER	tumor1	PAJNER-01A_vs_PAJNER-11A	TARGET	SMARCB1	truncating	stop_gained	R53*	chr22:23791819:C>T	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	FALSE	TRUE	R53* germline / CNLOH			
+PAJNFP	tumor1	PAJNFP-01A_vs_PAJNFP-11A	TARGET	SMARCB1	truncating	stop_gained	W281*	chr22:23825272:G>A	TRUE	somatic	0.763	-	1.9713		NaN	NaN	NaN	FALSE	TRUE	W283* / CNLOH			
+PAJNFZ	tumor1	PAJNFZ-01A_vs_PAJNFZ-10A	TARGET	SMARCB1	truncating	frameshift_variant	Y47YX	chr22:23791803:->C	TRUE	germline									TRUE	Y47YX germline / CNLOH			
+PAKHTL	tumor1	PAKHTL-01A_vs_PAKHTL-11A	TARGET	SMARCB1	truncating	stop_gained	R53*	chr22:23791819:C>T	TRUE	somatic	0.75	del	0.8891		NaN	NaN	NaN	FALSE	FALSE	W281* / del			
+PAKLYZ	tumor1	PAKLYZ-01A_vs_PAKLYZ-10A	TARGET	MYCN						somatic		amp	75.0273						NA	MYCNamp / -			
+PAKTCT	tumor1	PAKTCT-01A_vs_PAKTCT-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0645		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PARECB	tumor1	PARECB-01A_vs_PARECB-11A	TARGET	SMARCB1															TRUE	exon4-5-del germline / CNLOH	23797481-23804840		
+PAREWI	tumor1	PAREWI-01A_vs_PAREWI-11A	TARGET	SMARCB1	truncating	splice_donor_variant	-	chr22:23787263:G>T	TRUE	somatic									TRUE	splice variant / CNLOH			
+PARGRN	tumor1	PARGRN-01A_vs_PARGRN-10A	TARGET	SMARCB1															TRUE	exon1-del germline / CNLOH	23786499-23790458		
+PARIRN	tumor1	PARIRN-01A_vs_PARIRN-10A	TARGET	SMARCA4	truncating	frameshift_variant	N248X	chr19:10986577:T>-		germline									TRUE	N248X germline / CNLOH			
+PARPFY	tumor1	PARPFY-01A_vs_PARPFY-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.1518		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PARRCL	tumor1	PARRCL-01A_vs_PARRCL-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.1327		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PARTKH	tumor1	PARTKH-01A_vs_PARTKH-10A	TARGET	SMARCB1															TRUE	exon6-del germline / CNLOH	23815040-23817813		
+PARUGK	tumor1	PARUGK-01A_vs_PARUGK-10A	TARGET	SMARCB1	truncating	frameshift_variant	A382X	chr22:23834167:C>-	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	FALSE	TRUE	A382X / CNLOH			
+PARZBI	tumor1	PARZBI-01A_vs_PARZBI-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0963		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PARZRH	tumor1	PARZRH-01A_vs_PARZRH-10A	TARGET	SMARCB1	truncating	stop_gained	R40*	chr22:23791780:C>T	TRUE	somatic	0.438	-	1.9616		NaN	NaN	NaN	FALSE	FALSE	R40* /  EE97-98EX			
+PARZRH	tumor1	PARZRH-01A_vs_PARZRH-10A	TARGET	SMARCB1	truncating	frameshift_variant	EE97-98EX	chr22:23793617:AG>-	TRUE	somatic	0.545	-	1.9616		NaN	NaN	NaN	FALSE	FALSE	R40* /  EE97-98EX			
+PASABD	tumor1	PASABD-01A_vs_PASABD-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0595		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PASADZ	tumor1	PASADZ-01A_vs_PASADZ-10A	TARGET	SMARCB1	truncating	frameshift_variant	F10X	chr22:23787196:TTCGGGCAGAAGCCCGTGAA>-	TRUE	somatic				del				FALSE	FALSE	del germline / F10X			
+PASCDH	tumor1	PASCDH-01A_vs_PASCDH-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	NaN	NaN		nan:23787386:G>]chr22:23777145]G	SMARCB1/MMP11	chr22	FALSE	TRUE	exon1-del / CNLOH	23777147-23787384		
+PASDLA	tumor1	PASDLA-01A_vs_PASDLA-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0122		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PASGCL	tumor1	PASGCL-01A_vs_PASGCL-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.3563		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PASRHU	tumor1	PASRHU-01A_vs_PASRHU-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0249		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PASVDP	tumor1	PASVDP-01A_vs_PASVDP-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0235		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PASWZZ	tumor1	PASWZZ-01A_vs_PASWZZ-10A	TARGET	SMARCB1	truncating	splice_acceptor_variant,coding_sequence_variant	-	chr22:23816769:GAGAAGTTGAT>-	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	FALSE	TRUE	splice variant germline / CNLOH			
+PASXNA	tumor1	PASXNA-01A_vs_PASXNA-11A	TARGET	SMARCB1						somatic									TRUE	exon6-del germline / CNLOH	23814492-23819051		
+PASYNF	tumor1	PASYNF-01A_vs_PASYNF-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	NaN	NaN		nan:23790112:G>]chr22:23785907]AACTG	SMARCB1/-	chr22	FALSE	TRUE	exon1-del / CNLOH	23785907-23790112		
+PASZYE	tumor1	PASZYE-01A_vs_PASZYE-10A	TARGET	SMARCB1	truncating	stop_gained	G317*	chr22:23825378:G>T	TRUE	somatic	0.811	-	1.9934		NaN	NaN	NaN	FALSE	TRUE	G317* / CNLOH			
+PATAFT	tumor1	PATAFT-01A_vs_PATAFT-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0212		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PATBLF	tumor1	PATBLF-01A_vs_PATBLF-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0442		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PATDVL	tumor1	PATDVL-01A_vs_PATDVL-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0416		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PATENH	tumor1	PATENH-01A_vs_PATENH-11A	TARGET	SMARCB1	truncating	stop_gained	Y81*	chr22:23793569:C>G	TRUE	somatic	0.812	-	1.9998		NaN	NaN	NaN	FALSE	TRUE	Y81* / CNLOH			
+PATFXW	tumor1	PATFXW-01A_vs_PATFXW-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.2898		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PATFZZ	tumor1	PATFZZ-01A_vs_PATFZZ-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0022		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PATXEE	tumor1	PATXEE-01A_vs_PATXEE-10A	TARGET	SMARCB1	truncating	stop_gained	R53*	chr22:23791819:C>T	TRUE	somatic	0.694	-	2.0031		NaN	NaN	NaN	FALSE	TRUE	R53* / CNLOH			
+PATXKA	tumor1	PATXKA-01A_vs_PATXKA-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.4365		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAUCGJ	tumor1	PAUCGJ-01A_vs_PAUCGJ-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.4924		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAUDPV	tumor1	PAUDPV-01A_vs_PAUDPV-11A	TARGET	SMARCB1	truncating	splice_acceptor_variant,coding_sequence_varian...	-	chr22:23793536:CCAGTGATGTTTGTCTGTTACAGATCACGGA...	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	FALSE	TRUE	splice variant germline / CNLOH			
+PAUEKW	tumor1	PAUEKW-01A_vs_PAUEKW-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.9985		nan:23809445:T>[chr22:23809970[T	SMARCB1-del	chr22	FALSE	FALSE	exon1-5-del / del	23776542-23809445		
+PAUEKW	tumor1	PAUEKW-01A_vs_PAUEKW-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.9985		nan:23809985:A>A]chr22:22417861]	SMARCB1/-	chr22	FALSE	FALSE	exon1-5-del / del	23776542-23809445		
+PAUEKW	tumor1	PAUEKW-01A_vs_PAUEKW-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.9985		nan:23814626:T>T[chr22:22444253[	SMARCB1/-	chr22	FALSE	FALSE	exon1-5-del / del	23776542-23809445		
+PAUEKW	tumor1	PAUEKW-01A_vs_PAUEKW-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.9985		nan:23815083:A>[chr22:22437075[A	SMARCB1/-	chr22	FALSE	FALSE	exon1-5-del / del	23776542-23809445		
+PAUFVP	tumor1	PAUFVP-01A_vs_PAUFVP-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.1145		NaN	NaN	NaN	FALSE	TRUE	del / CNLOH			
+PAUGYZ	tumor1	PAUGYZ-01A_vs_PAUGYZ-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0162		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAUHAZ	tumor1	PAUHAZ-01A_vs_PAUHAZ-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0986		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAUNPA	tumor1	PAUNPA-01A_vs_PAUNPA-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	NaN	NaN		nan:23788922:T>]chr22:23786602]T	SMARCB1/-	chr22	FALSE	TRUE	exon1-del / CNLOH	23786602-23788922		
+PAVCKS	tumor1	PAVCKS-01A_vs_PAVCKS-11A	TARGET	SMARCB1	truncating	stop_gained	Q318*	chr22:23825381:C>T	TRUE	somatic	0.767	-	1.9554		NaN	NaN	NaN	FALSE	TRUE	Q318* / CNLOH			
+PAVITI	tumor1	PAVITI-01A_vs_PAVITI-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0214		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAVYDM	tumor1	PAVYDM-01A_vs_PAVYDM-11A	TARGET	SMARCB1	truncating	splice_donor_variant	-	chr22:23803423:G>T	TRUE	somatic	0.444	del	0.9692		NaN	NaN	NaN	FALSE	FALSE	splice variant / del			
+PAVYKD	tumor1	PAVYKD-01A_vs_PAVYKD-10A	TARGET	SMARCB1															TRUE	exon1-3-del germline / CNLOH	23785923-23799979		
+PAWDGA	tumor1	PAWDGA-01A_vs_PAWDGA-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	1.0815		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAWFBL	tumor1	PAWFBL-01A_vs_PAWFBL-11A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.1107		NaN	NaN	NaN	FALSE	FALSE	del / del			
+PAWFWK	tumor1	PAWFWK-01A_vs_PAWFWK-10A	TARGET	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0398		NaN	NaN	NaN	FALSE	TRUE	del / CNLOH			
+SJ014754	tumor1	SJMRT014754_D1_vs_SJMRT014754_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0537		NaN	NaN	NaN	FALSE	FALSE	del / del			Excluded due to no age data
+SJ015723	tumor1	SJMRT015723_D1_vs_SJMRT015723_G1	St Jude	SMARCB1	truncating	frameshift_variant	-184-185VLX	chr22:23803347:->GTGCTGGT	TRUE	somatic	0.488	-	2.0042		NaN	NaN	NaN	FALSE	FALSE	-184-185VLX (exon5-ins8) / exon6-del		23815319-23820410	
+SJ030128	tumor1	SJBT030128_D1_vs_SJBT030128_G1	St Jude	SMARCB1	NaN	del / del	NaN	NaN	NaN	somatic	NaN	del	-0.0393		NaN	NaN	NaN	FALSE	FALSE	del / chrom loss			
+SJ030255	tumor1	SJBT030255_D1_vs_SJBT030255_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	1.0355		nan:23791589:G>G]chr3:61656005]	SMARCB1/PTPRG	chr22/chr3	FALSE	FALSE	del / chrom loss			
+SJ030581	tumor1	SJBT030581_D1_vs_SJBT030581_G1	St Jude	SMARCB1	other	splice_region_variant,synonymous_variant	S329	chr22:23833572:C>T	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	TRUE	FALSE	del / del			
+SJ030581	tumor1	SJBT030581_D1_vs_SJBT030581_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0282		NaN	NaN	NaN	TRUE	FALSE	del / del			
+SJ030707	tumor1	SJBT030707_D2_vs_SJBT030707_G1	St Jude	SMARCB1	truncating	frameshift_variant	A382X	chr22:23834167:C>-	TRUE	somatic	0.611	del	0.8209		NaN	NaN	NaN	FALSE	FALSE	A382X / chrom loss			
+SJ030896	tumor1	SJBT030896_D1_vs_SJBT030896_G1	St Jude	SMARCB1	truncating	stop_gained	W206*	chr22:23803411:G>A	TRUE	somatic	0.174	del	1.1292		NaN	NaN	NaN	FALSE	FALSE	W206* / chrom loss			
+SJ030997	tumor1	SJBT030997_D1_vs_SJBT030997_G1	St Jude	SMARCB1															TRUE	exon6-del germline / CNLOH	23814125-23818084		
+SJ031235	tumor1	SJBT031235_D1_vs_SJBT031235_G1	St Jude	SMARCB1	truncating	frameshift_variant	F164X	chr22:23801073:C>-	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	FALSE	TRUE	F164X germline / CNLOH			
+SJ031605	tumor1	SJBT031605_D1_vs_SJBT031605_G1	St Jude	SMARCB1	truncating	frameshift_variant	S258SDX	chr22:23816914:->CAGA	TRUE	somatic	0.524	del	1.0401		NaN	NaN	NaN	FALSE	FALSE	S258SDX and L303X / chrom loss			
+SJ031605	tumor1	SJBT031605_D1_vs_SJBT031605_G1	St Jude	SMARCB1	truncating	frameshift_variant	L303X	chr22:23825336:T>-	TRUE	somatic	0.351	del	1.0401		NaN	NaN	NaN	FALSE	FALSE	S258SDX and L303X / chrom loss			
+SJ031948	tumor1	SJBT031948_D2_vs_SJBT031948_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	NaN	NaN		nan:23792667:G>GGC[chr22:23801939[	SMARCB1-del	chr22	FALSE	TRUE	del / CNLOH			
+SJ032047	tumor1	SJBT032047_D1_vs_SJBT032047_G1	St Jude	SMARCB1	truncating	stop_gained	R201*	chr22:23803395:C>T	TRUE	germline	NaN	NaN	NaN		NaN	NaN	NaN	FALSE	FALSE	R201* / ?			Excluded due to low quality
+SJ032346	tumor1	SJBT032346_D1_vs_SJBT032346_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	NaN	NaN		nan:23812747:C>C[chr22:23820616[	SMARCB1-del	chr22	FALSE	TRUE	exon6-del / CNLOH	23812743-23820619		
+SJ032393	tumor1	SJBT032393_D1_vs_SJBT032393_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.7442		NaN	NaN	NaN	FALSE	FALSE	del / del			
+SJ032417	tumor1	SJBT032417_D2_vs_SJBT032417_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-0.0683		NaN	NaN	NaN	FALSE	TRUE	del / CNLOH			
+SJ033133	tumor1	SJBT033133_D3_vs_SJBT033133_G1	St Jude																FALSE	? / ?			Excluded due to low quality
+SJ033236	tumor1	SJBT033236_D2_vs_SJBT033236_G1	St Jude	SMARCB1	truncating	splice_donor_variant	-	chr22:23803423:G>A	TRUE	somatic	0.81	del	1.0303		NaN	NaN	NaN	FALSE	FALSE	splice variant / chrom loss			
+SJ034089	tumor1	SJBT034089_D1_vs_SJBT034089_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	0.0204		NaN	NaN	NaN	FALSE	FALSE	del / del			
+SJ034110	tumor1	SJBT034110_D2_vs_SJBT034110_G1	St Jude	SMARCB1	truncating	frameshift_variant	I99ILDX	chr22:23793623:->TCTGGATG	TRUE	somatic	0.923	del	1.0068		NaN	NaN	NaN	FALSE	FALSE	I99ILDX (exon3-ins8) / del			
+SJ063832	tumor1	SJMRT063832_X1_vs_SJMRT063832_G1	St Jude	SMARCB1	NaN	NaN	NaN	NaN	NaN	somatic	NaN	del	-3.907		NaN	NaN	NaN	FALSE	FALSE	del / del			Excluded due to xenograft sample
+PMC01	tumor1	DIAF_vs_BLOOD	PMC	SMARCB1	truncating	frameshift_variant	PS48-49X	chr22:23791806:CTCA>-	1.980902	somatic	1	-	1.9607		NaN	NaN	NaN	FALSE	TRUE	PS48-49X / CNLOH			
+PMC01	tumor2	OMEN_vs_BLOOD	PMC	SMARCB1	truncating	frameshift_variant	PS48-49X	chr22:23791806:CTCA>-	2.208627	somatic	1	-	1.9359		NaN	NaN	NaN	FALSE	TRUE	PS48-49X / CNLOH			
+PMC01	tumor3	LN_vs_BLOOD	PMC	SMARCB1	truncating	frameshift_variant	PS48-49X	chr22:23791806:CTCA>-	2.012602	somatic	1	-	1.9924		NaN	NaN	NaN	FALSE	TRUE	PS48-49X / CNLOH			
+PMC01	tumor4	LNMETA_vs_BLOOD	PMC	SMARCB1	truncating	frameshift_variant	PS48-49X	chr22:23791806:CTCA>-	2.001002	somatic	1	-	1.9808		NaN	NaN	NaN	FALSE	TRUE	PS48-49X / CNLOH			

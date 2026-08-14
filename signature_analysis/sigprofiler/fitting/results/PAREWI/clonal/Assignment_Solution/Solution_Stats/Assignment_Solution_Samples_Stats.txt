@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAREWI	347	0.87	189.744	54.681%	26.109	50.96%	0.26772	0.751

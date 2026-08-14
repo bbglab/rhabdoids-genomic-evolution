@@ -1,0 +1,2 @@
+Samples	SBS5	SBS57
+SJ032047	0	7

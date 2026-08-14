@@ -1,0 +1,9 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 1
+memory = 20G
+[jobs]
+python /workspace/projects/rhabdoid_tumors/code/python_scripts/intersect_callers2.py -sa /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/vcf_processing/sage/AX4928_vs_AQ5174_process.maf.gz -mu /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/vcf_processing/mutect/AX4928_vs_AQ5174_process.maf.gz -st /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/vcf_processing/strelka/AX4928_vs_AQ5174_process.maf.gz -o /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/vcf_processing/intersect/ -sn AX4928_vs_AQ5174 -c 
+python /workspace/projects/rhabdoid_tumors/code/python_scripts/intersect_callers2.py -sa /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/vcf_processing/sage/AX4929_vs_AQ5174_process.maf.gz -mu /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/vcf_processing/mutect/AX4929_vs_AQ5174_process.maf.gz -st /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/vcf_processing/strelka/AX4929_vs_AQ5174_process.maf.gz -o /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/vcf_processing/intersect/ -sn AX4929_vs_AQ5174 -c 

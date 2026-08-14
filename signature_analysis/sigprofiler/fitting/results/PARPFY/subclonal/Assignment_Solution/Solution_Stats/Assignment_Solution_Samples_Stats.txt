@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PARPFY	126	0.725	104.235	82.726%	14.638	70.427%	0.62728	0.518

@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PARIRN	642	0.94	231.639	36.081%	33.648	34.175%	0.11545	0.89

@@ -1,0 +1,12 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 1
+memory = 8G
+[jobs]
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_cnv_purple.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0101/purple/DIAF.purple.cnv.gene.tsv -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/DIAF_vs_BLOOD/process_cnv/purple/ -t_id DIAF -n_id BLOOD
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_cnv_purple.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0102/purple/OMEN.purple.cnv.gene.tsv -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/OMEN_vs_BLOOD/process_cnv/purple/ -t_id OMEN -n_id BLOOD
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_cnv_purple.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0103/purple/LN.purple.cnv.gene.tsv -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LN_vs_BLOOD/process_cnv/purple/ -t_id LN -n_id BLOOD
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_cnv_purple.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/oncoanalyser_results/output/PMC0104/purple/LNMETA.purple.cnv.gene.tsv -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LNMETA_vs_BLOOD/process_cnv/purple/ -t_id LNMETA -n_id BLOOD
+

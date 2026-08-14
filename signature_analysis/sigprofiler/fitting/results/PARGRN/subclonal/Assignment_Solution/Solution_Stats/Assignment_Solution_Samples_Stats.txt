@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PARGRN	249	0.843	153.685	61.721%	23.383	56.365%	0.35015	0.75

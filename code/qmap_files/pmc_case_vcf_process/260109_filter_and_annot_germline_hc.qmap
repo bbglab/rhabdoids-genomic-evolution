@@ -1,0 +1,8 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 1
+memory = 8G
+[jobs]
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/filter_and_annot_muts.py -i /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/BLOOD/process_vep_output/haplotype_caller/ -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/BLOOD/filter_and_annot/haplotype_caller/ -n_id BLOOD -c hc -gn 0.01

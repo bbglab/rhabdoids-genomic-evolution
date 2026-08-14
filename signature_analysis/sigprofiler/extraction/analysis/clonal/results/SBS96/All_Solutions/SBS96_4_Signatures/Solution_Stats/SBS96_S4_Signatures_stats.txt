@@ -1,0 +1,5 @@
+Signatures	Stability	Total Mutations
+SBS96A	0.899	44187
+SBS96B	0.7	24429
+SBS96C	0.99	22176
+SBS96D	0.542	22104

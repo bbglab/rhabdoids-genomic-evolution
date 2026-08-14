@@ -1,0 +1,9 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 8
+memory = 15G
+[jobs]
+python /workspace/projects/rhabdoid_tumors/code/python_scripts/process_vep101.py --path_input_vep /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/vep_processing/ --path_input_maf /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/vcf_processing/intersect/ --file_name AX4928_vs_AQ5174 --cores 8
+python /workspace/projects/rhabdoid_tumors/code/python_scripts/process_vep101.py --path_input_vep /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/vep_processing/ --path_input_maf /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/vcf_processing/intersect/ --file_name AX4929_vs_AQ5174 --cores 8

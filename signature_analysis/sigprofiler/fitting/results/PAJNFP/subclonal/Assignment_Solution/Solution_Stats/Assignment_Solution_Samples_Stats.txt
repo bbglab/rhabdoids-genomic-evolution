@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PAJNFP	236	0.898	123.37	52.275%	17.093	44.282%	0.28199	0.83

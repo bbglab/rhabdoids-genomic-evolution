@@ -1,0 +1,65 @@
+PATIENT_ID	SAMPLE_ID	SAMPLE_TYPE	TAB_BIOPSY	TAB_YEAR	TAB_MONTH	TAB_DAYS	CNAG_PROJECT	CNAG_CODE	PLATFORM	DEPTH	SHIPMENT_TO_CNAG_DATE	SHIPMENT_CODE	COMMENTS	SAMPLE_INFO	SAMPLE_LOCATION	DIAGNOSIS_AP_NOTES	SJD DNA ng/ul (nanodrop)	SJD DNA ng/ul (Qubit)	BBG DNA ng/ul (Qubit BR)	date of BBG  DNA quantification	CNAG DNA ng/ul (Femto Pulse)	DNA left at SJD (ul)	DNA left at SJD (ng)	HMF pipeline5 output quality
+1		Normal blood	8.32	8	3		LOPEBIG_38	AX4894	WGS	30X	05/05/2022													
+2		Normal blood		0	0		LOPEBIG_38		WGS	30X			No blood DNA available											
+3		Normal blood	5.02	5	0		LOPEBIG_38	AX4895	WGS	30X	05/05/2022													
+4		Normal blood	0.03	0	0		LOPEBIG_38	AX4896	WGS	30X	05/05/2022													
+5		Normal blood	13.67	13	8		LOPEBIG_38	AX4897	WGS	30X	05/05/2022													
+6		Normal blood	1.57	1	6		LOPEBIG_38	AX4898	WGS	30X	05/05/2022													
+7		Normal blood	2.18	2	2		LOPEBIG_38	AX4899	WGS	30X	05/05/2022													
+8		Normal blood	3.05	3	0		LOPEBIG_38	AX4900	WGS	30X	05/05/2022													
+9		Normal blood	0.46	0	5		LOPEBIG_38	AX4901	WGS	30X	05/05/2022													
+10		Normal blood	1.48	1	5		LOPEBIG_38	AX4902	WGS	30X	05/05/2022													
+11		Normal blood	5.59	5	7		LOPEBIG_38	AX4903	WGS	30X	05/05/2022													
+12		Normal blood	0.69	0	8		LOPEBIG_38	AX4904	WGS	30X	05/05/2022													
+13		Normal blood	0.33	0	3		LOPEBIG_38	AX4905	WGS	30X	05/05/2022													
+14		Normal blood					LOPEBIG_38		WGS	30X			already done (patient 1)											
+15		Normal blood	14.81	14	9		LOPEBIG_38	AX4906	WGS	30X	05/05/2022													
+16		Normal blood	1.67	1	8		LOPEBIG_38	AX4907	WGS	30X	05/05/2022													
+17		Normal blood	2.64	2	7		LOPEBIG_38	AX4908	WGS	30X	05/05/2022													
+18		Normal blood	0.01				LOPEBIG_38	AX4909	WGS	30X	05/05/2022													
+19		Normal blood	1.13	1	1		LOPEBIG_38	AX4910	WGS	30X	05/05/2022													
+20		Normal blood	0.57	0	6		LOPEBIG_38	AX4911	WGS	30X	05/05/2022													
+21		Normal blood	0.67	0	8		LOPEBIG_38		WGS	30X			No tumor tissue available											
+1	1pre	Tumor pre ttmt	8.32	8	3		LOPEBIG_39	AX4912	WGS	120X	13/05/2022			Diagnosis	Pelvis	Tumor Rabdoide extrarrenal	82.1				11.3	13	146.9	OK
+1	1post	Tumor post ttmt	8.56	8	6		LOPEBIG_39	AX4913	WGS	120X	13/05/2022		NOT IN THE FIRST LIST. Wrong sample (not SMARCB1del)	Second look surgery (post chemo)	Retroperitoneum	T. Rabdoide	59.2				21.8			
+2		Tumor pre ttmt	0.56	0	6		LOPEBIG_39		WGS	120X			No blood DNA available											
+3	3pre	Tumor pre ttmt	4.79	4	9		LOPEBIG_39	AX4914	WGS	120X	13/05/2022			Diagnosis	Kidney	Tumor Rabdoide	80.2				66.6	0	0	OK
+3	3post	Tumor post ttmt	6.16	6	1		LOPEBIG_39	AX4915	WGS	120X	13/05/2022			Relapse post chemo (Lung)	Lung	Tumor Rabdoide, metástasis pulmonar	132.5				43.2	15	648	OK
+4	4	Tumor pre ttmt	0.02	0	0.24	7	LOPEBIG_39	AX4916	WGS	120X	13/05/2022			Diagnosis	Skin and soft tissue	3085	93.3				77.8	15	1167	OK
+4	4necro	Tumor pre ttmt	0.03	0	0.36	11	LOPEBIG_39	AX4917	WGS	120X	13/05/2022		Wrong sample (not SMARCB1del)	Necropsy (no treatment)	Skin and soft tissue	Tumor Rabdoide extrarenal	75.7				53.4			
+5	5pre	Tumor pre ttmt	13.50	13	6		LOPEBIG_39	AX4918	WGS	120X	13/05/2022			Diagnosis	Paraspinal	Tumor Rabdoide extrarrenal	30.6				13.5	0	0	OK
+5	5post	Tumor post ttmt	13.70	13	8		LOPEBIG_39	AX4919	WGS	120X	13/05/2022			Necropsy (post chemo)	NA	Tumor Rabdoide maligno	83.2				27.2	0	0	Low quality
+6	6post	Tumor post ttmt	1.60	1	7	6	LOPEBIG_39	AX4920	WGS	120X	13/05/2022			Post chemo	CNS (cervical)	Tumor Rabdoide Teratoide Atípico	34.2				11.3	0	0	Low quality
+6	6necro	Tumor post ttmt	1.64	1	7	20.4	LOPEBIG_39	AX4921	WGS	120X	13/05/2022			Necropsy (post chemo)	Laterocervical region	Tumor Rabdoide maligno	200				230	9	2070	OK
+7	7post	Tumor post ttmt	2.25	2	3		LOPEBIG_39	AX4922	WGS	120X	13/05/2022			Recurrence (post chemo)	Brain	Tumor Teratoide/Rabdoide atípico (WHO IV)	13.3				5.72	0	0	Low quality
+8	8pre	Tumor post ttmt	3.02	3	0		LOPEBIG_39	AX4930	WGS	120X	13/05/2022		sample was swapped with pt15	Diagnosis	Brain	Tumor teratoide rabdoide atípico Grado IV de WHO	93				20.4	10	204	OK
+9	9pre	Tumor pre ttmt	0.44	0	5	8.4	LOPEBIG_39	AX4924	WGS	120X	13/05/2022			Diagnosis	Liver	Tumor maligno de alto grado, INI1 negativo	200				16.2	20	324	Low quality
+9	9post	Tumor post ttmt	0.49	0	5	26.4	LOPEBIG_39	AX4925	WGS	120X	13/05/2022			Second look surgery (post chemo)	Liver	Estado post-tto de tumor rabdoide maligno	150				25.2	15	378	OK
+12	12post	Tumor post ttmt	0.68	0	8		LOPEBIG_39	AX4926	WGS	120X	13/05/2022			Progression (post chemo)	Armpit	Presencia de focos correspondientes a tumor rabdoide	41				98.8	0	0	Low quality
+13	13post	Tumor post ttmt	0.53	0	6		LOPEBIG_39	AX4927	WGS	120X	13/05/2022			Diagnosis	Laterocervical soft tissue	Tumor rabdoide extrarrenal.	66.2				19.6	14	274.4	OK
+14	14pre	Tumor pre ttmt	10.10	10	1		LOPEBIG_39	AX4928	WGS	120X	13/05/2022			Diagnosis	Adrenal tissue	Tumor rabdoide.	98				16.9	15	253.5	OK
+14	14post	Tumor post ttmt	10.50	10	6		LOPEBIG_39	AX4929	WGS	120X	13/05/2022			Necropsy (post chemo)	NA	Tumor rabdoide	71.55				28	18	504	Low quality
+15	15post	Tumor post ttmt	15.58	15	6		LOPEBIG_39	AX4923	WGS	120X	13/05/2022		sample was swapped with pt8	Second look surgery (post chemo)	Pelvis	Compatible con recidiva de tumor SMARCA4 deficiente.	20.4				49.4	0	0	OK
+16	16pre	Tumor pre ttmt	1.67	1	8		LOPEBIG_39	AX4931	WGS	120X	13/05/2022			Diagnosis	Brain	Tumor rabdoide teratoide atípico.	46.9				15.1	7.5	113.25	Low quality
+17	17pre	Tumor pre ttmt	2.61	2	7		LOPEBIG_39	AX4932	WGS	120X	13/05/2022			Diagnosis	Brain	Tumor teratoride/rabdoide atípico	200				141	30	4230	OK
+18	18	Tumor pre ttmt	0.01	0	0.12	4	LOPEBIG_39	AX4933	WGS	120X	13/05/2022			Diagnosis	Soft tissue (multiple tumor masses)	Compatible con tumor rabdoide.	39.1				3.9	7.5	29.25	Low quality
+18	18necro	Tumor pre ttmt	0.02	0	0.24	7	LOPEBIG_39	AX4934	WGS	120X	13/05/2022			Necropsy (no treatment)	Soft tissue (multiple tumor masses)	Tumor rabdoide.	200				46.2	15	693	OK
+19	19post	Tumor post ttmt	1.13	1	1		LOPEBIG_39	AX4935	WGS	120X	13/05/2022			Diagnosis (treated in another center)	Liver	Tumor rabdoide.	155.7				16.5	15	247.5	OK
+20	20pre	Tumor pre ttmt	0.57	0	6		LOPEBIG_39	AX4936	WGS	120X	13/05/2022			Diagnosis	Soft tissue (right hemithorax) and kidney	MRT	50.5				11.9	10	119	Low quality
+21		Tumor pre ttmt					LOPEBIG_39		WGS	120X			No tumor tissue available											
+2		Tumor post ttmt					LOPEBIG_XX		WGS	120X			No blood DNA available											
+1	1post #2	Tumor post ttmt	8.56	8	6		LOPEBIG_56	AX4937	WGS	120X	12/09/2023		Second post sample from patient 1, with SMARCB1del checked in MLPA		Retroperitoneum		177.3	39.5	30.6	09/06/2023	107.42	30	3222.6	
+4	4necro #2	Tumor pre ttmt	0.03	0	0		LOPEBIG_56	AX4938	WGS	120X	12/09/2023		Second necro sample from patient 4, with SMARCB1del checked in MLPA		Skin and soft tissue		762.9		200	09/06/2023	142.96	14	2001.44	
+11	11pre	Tumor pre ttmt	5.57	5	6		LOPEBIG_56	AX4951	WGS	120X	12/09/2023		Heterozygous SMARCB1del (MLPA)	Diagnosis	Brain	Tumor rabdoide teratoide atípico	59.4	13.1	8.96	09/06/2023	30.04	11	330.44	
+12	12post #2	Tumor post ttmt	0.68	0	8		LOPEBIG_56	AX4940	WGS	120X	12/09/2023		Homozygous SMARCB1del (MLPA)		Armpit		145.7	39	34.8	09/06/2023	109.17	26	2838.42	
+5		Tumor pre ttmt											Limited sample		NA									
+10		Tumor pre ttmt											Limited sample		Brain									
+13		Tumor pre ttmt											Limited sample		Lymph node									
+13		Tumor pre ttmt											Limited sample		Lymph node									
+15		Tumor pre ttmt											Limited sample		Pelvis									
+6	RT464_4F2	Cell line post ttmt	1.60	1	7		LOPEBIG_59	AX4942	WGS	30X	09/05/2025		Single cell clonal expansion from cell line (pt6)								1.272			
+6	RT464_5B5	Cell line post ttmt	1.60	1	7		LOPEBIG_59	AX4943	WGS	30X	09/05/2025		Single cell clonal expansion from cell line (pt6)								1.845			
+5	5post	Tumor post ttmt	13.70	13	8		LOPEBIG_60	AX4944	WGS	120X	24/05/2025		Second post sample from patient 5, with SMARCB1del checked in MLPA	Necropsy (post chemo)		Tumor Rabdoide maligno								
+6	6post	Tumor post ttmt	1.60	1	7		LOPEBIG_60	AX4945	WGS	120X	24/05/2025		First sample from patient 6, with SMARCB1del checked in MLPA	Post chemo		Tumor Rabdoide Teratoide Atípico								
+3	RT223_Clone2F11	Cell line pre ttmt	4.79	4	9		LOPEBIG_61	AX4946	WGS	30X	25/11/2025		Single cell clonal expansion from cell line (pt3)						2800					
+3	RT223_Clone1G3	Cell line pre ttmt	4.79	4	9		LOPEBIG_62	AX4947	WGS	30X	25/11/2025		Single cell clonal expansion from cell line (pt3)						330.4					

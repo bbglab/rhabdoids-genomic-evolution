@@ -1,0 +1,2 @@
+Samples	SBS1	SBS5
+pt18_t1	45	144

@@ -1,0 +1,2 @@
+Sample Names	Total Mutations	Cosine Similarity	L1 Norm	L1_Norm_%	L2 Norm	L2_Norm_%	KL Divergence	Correlation
+PARUGK	355	0.874	187.196	52.731%	26.731	52.055%	0.24053	0.765

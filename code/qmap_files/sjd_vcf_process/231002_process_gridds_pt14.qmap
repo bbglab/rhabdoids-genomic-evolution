@@ -1,0 +1,9 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 1
+memory = 8G
+[jobs]
+python /workspace/projects/rhabdoid_tumors/code/python_scripts/process_gridds.py -i /workspace/datasets/rhabdoid_tumors/platinum_results/pt14-t1-rhabdoids-t1/purple/AX4928.purple.sv.vcf.gz -o /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/process_sv/gridds/ -gp /workspace/users/msanchezg/data/genomic_positions_ensembl.txt.gz -ct /workspace/users/msanchezg/notebooks/protein_degradation/table_files/ensembl_canonical_transcripts.tsv -t_id AX4928 -n_id AQ5174
+python /workspace/projects/rhabdoid_tumors/code/python_scripts/process_gridds.py -i /workspace/datasets/rhabdoid_tumors/platinum_results/pt14-t2-rhabdoids-t2/purple/AX4929.purple.sv.vcf.gz -o /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/process_sv/gridds/ -gp /workspace/users/msanchezg/data/genomic_positions_ensembl.txt.gz -ct /workspace/users/msanchezg/notebooks/protein_degradation/table_files/ensembl_canonical_transcripts.tsv -t_id AX4929 -n_id AQ5174

@@ -1,0 +1,12 @@
+[pre]
+. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
+conda activate rhabdoids
+[params]
+cores = 1
+memory = 20G
+[jobs]
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_strelka_v2.9.10_vcf.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/sarek_results/variant_calling/strelka/DIAF_vs_BLOOD/DIAF_vs_BLOOD.strelka.somatic_snvs.vcf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/DIAF_vs_BLOOD/vcf_processing/strelka/ -t_id DIAF -n_id BLOOD
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_strelka_v2.9.10_vcf.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/sarek_results/variant_calling/strelka/OMEN_vs_BLOOD/OMEN_vs_BLOOD.strelka.somatic_snvs.vcf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/OMEN_vs_BLOOD/vcf_processing/strelka/ -t_id OMEN -n_id BLOOD
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_strelka_v2.9.10_vcf.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/sarek_results/variant_calling/strelka/LN_vs_BLOOD/LN_vs_BLOOD.strelka.somatic_snvs.vcf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LN_vs_BLOOD/vcf_processing/strelka/ -t_id LN -n_id BLOOD
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_strelka_v2.9.10_vcf.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/sarek_results/variant_calling/strelka/LNMETA_vs_BLOOD/LNMETA_vs_BLOOD.strelka.somatic_snvs.vcf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/LNMETA_vs_BLOOD/vcf_processing/strelka/ -t_id LNMETA -n_id BLOOD
+python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_strelka_v2.9.10_vcf.py -i /data/bbg/datasets/rhabdoid_tumors/pmc_case/sarek_results/variant_calling/strelka/HK_vs_BLOOD/HK_vs_BLOOD.strelka.somatic_snvs.vcf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_pmc/PMC01/HK_vs_BLOOD/vcf_processing/strelka/ -t_id HK -n_id BLOOD
