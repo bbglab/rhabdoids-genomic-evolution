@@ -1,0 +1,4 @@
+patient,sex,status,sample,bam,bai
+pt14,XX,0,AQ5174,/data/bbg/datasets/rhabdoid_tumors/sjd_cohort/sarek_results/preprocessing/recalibrated/AQ5174/AQ5174.recal.bam,/data/bbg/datasets/rhabdoid_tumors/sjd_cohort/sarek_results/preprocessing/recalibrated/AQ5174/AQ5174.recal.bam.bai
+pt14,XX,1,AX4958,/data/bbg/datasafe/sjd_seq/sarek_results/pt1/results/preprocessing/recalibrated/AX4958/AX4958.recal.bam,/data/bbg/datasafe/sjd_seq/sarek_results/pt1/results/preprocessing/recalibrated/AX4958/AX4958.recal.bam.bai
+pt14,XX,1,AX4961,/data/bbg/datasafe/sjd_seq/sarek_results/pt1/results/preprocessing/recalibrated/AX4961/AX4961.recal.bam,/data/bbg/datasafe/sjd_seq/sarek_results/pt1/results/preprocessing/recalibrated/AX4961/AX4961.recal.bam.bai

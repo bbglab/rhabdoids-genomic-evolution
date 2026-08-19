@@ -1,0 +1,14 @@
+patient,sample,variantcaller,vcf
+pt3,AX4895,haplotypecaller,./variant_calling/haplotypecaller/AX4895/AX4895.haplotypecaller.filtered.vcf.gz
+pt3,AX4895,manta,./variant_calling/manta/AX4895/AX4895.manta.diploid_sv.vcf.gz
+pt3,AX4895,strelka,./variant_calling/strelka/AX4895/AX4895.strelka.variants.vcf.gz
+pt3,AX4946_vs_AX4895,manta,./variant_calling/manta/AX4946_vs_AX4895/AX4946_vs_AX4895.manta.diploid_sv.vcf.gz
+pt3,AX4946_vs_AX4895,manta,./variant_calling/manta/AX4946_vs_AX4895/AX4946_vs_AX4895.manta.somatic_sv.vcf.gz
+pt3,AX4946_vs_AX4895,mutect2,./variant_calling/mutect2/AX4946_vs_AX4895/AX4946_vs_AX4895.mutect2.filtered.vcf.gz
+pt3,AX4946_vs_AX4895,strelka,./variant_calling/strelka/AX4946_vs_AX4895/AX4946_vs_AX4895.strelka.somatic_indels.vcf.gz
+pt3,AX4946_vs_AX4895,strelka,./variant_calling/strelka/AX4946_vs_AX4895/AX4946_vs_AX4895.strelka.somatic_snvs.vcf.gz
+pt3,AX4947_vs_AX4895,manta,./variant_calling/manta/AX4947_vs_AX4895/AX4947_vs_AX4895.manta.diploid_sv.vcf.gz
+pt3,AX4947_vs_AX4895,manta,./variant_calling/manta/AX4947_vs_AX4895/AX4947_vs_AX4895.manta.somatic_sv.vcf.gz
+pt3,AX4947_vs_AX4895,mutect2,./variant_calling/mutect2/AX4947_vs_AX4895/AX4947_vs_AX4895.mutect2.filtered.vcf.gz
+pt3,AX4947_vs_AX4895,strelka,./variant_calling/strelka/AX4947_vs_AX4895/AX4947_vs_AX4895.strelka.somatic_indels.vcf.gz
+pt3,AX4947_vs_AX4895,strelka,./variant_calling/strelka/AX4947_vs_AX4895/AX4947_vs_AX4895.strelka.somatic_snvs.vcf.gz

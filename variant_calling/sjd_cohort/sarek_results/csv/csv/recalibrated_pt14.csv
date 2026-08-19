@@ -1,0 +1,4 @@
+patient,sex,status,sample,bam,bai
+pt14,XX,0,AQ5174,./preprocessing/recalibrated/AQ5174/AQ5174.recal.bam,./preprocessing/recalibrated/AQ5174/AQ5174.recal.bam.bai
+pt14,XX,1,AX4928,./preprocessing/recalibrated/AX4928/AX4928.recal.bam,./preprocessing/recalibrated/AX4928/AX4928.recal.bam.bai
+pt14,XX,1,AX4929,./preprocessing/recalibrated/AX4929/AX4929.recal.bam,./preprocessing/recalibrated/AX4929/AX4929.recal.bam.bai

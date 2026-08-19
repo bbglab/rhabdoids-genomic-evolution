@@ -1,0 +1,3 @@
+patient,sex,status,sample,cram,crai,table
+pt3,XY,1,AX4946,./preprocessing/markduplicates/AX4946/AX4946.md.cram,./preprocessing/markduplicates/AX4946/AX4946.md.cram.crai,./preprocessing/recal_table/AX4946/AX4946.recal.table
+pt3,XY,1,AX4947,./preprocessing/markduplicates/AX4947/AX4947.md.cram,./preprocessing/markduplicates/AX4947/AX4947.md.cram.crai,./preprocessing/recal_table/AX4947/AX4947.recal.table
