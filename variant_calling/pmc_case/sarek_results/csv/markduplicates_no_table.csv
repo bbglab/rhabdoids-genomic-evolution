@@ -1,0 +1,7 @@
+patient,sex,status,sample,cram,crai
+PMC01,XX,0,BLOOD,./preprocessing/markduplicates/BLOOD/BLOOD.md.cram,./preprocessing/markduplicates/BLOOD/BLOOD.md.cram.crai
+PMC01,XX,1,DIAF,./preprocessing/markduplicates/DIAF/DIAF.md.cram,./preprocessing/markduplicates/DIAF/DIAF.md.cram.crai
+PMC01,XX,1,HK,./preprocessing/markduplicates/HK/HK.md.cram,./preprocessing/markduplicates/HK/HK.md.cram.crai
+PMC01,XX,1,LN,./preprocessing/markduplicates/LN/LN.md.cram,./preprocessing/markduplicates/LN/LN.md.cram.crai
+PMC01,XX,1,LNMETA,./preprocessing/markduplicates/LNMETA/LNMETA.md.cram,./preprocessing/markduplicates/LNMETA/LNMETA.md.cram.crai
+PMC01,XX,1,OMEN,./preprocessing/markduplicates/OMEN/OMEN.md.cram,./preprocessing/markduplicates/OMEN/OMEN.md.cram.crai

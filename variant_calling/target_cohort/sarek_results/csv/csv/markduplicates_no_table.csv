@@ -1,0 +1,11 @@
+patient,sex,status,sample,cram,crai
+PARPFY,XY,0,PARPFY-11A,./preprocessing/markduplicates/PARPFY-11A/PARPFY-11A.md.cram,./preprocessing/markduplicates/PARPFY-11A/PARPFY-11A.md.cram.crai
+PARPFY,XY,1,PARPFY-01A,./preprocessing/markduplicates/PARPFY-01A/PARPFY-01A.md.cram,./preprocessing/markduplicates/PARPFY-01A/PARPFY-01A.md.cram.crai
+PARTKH,XY,0,PARTKH-10A,./preprocessing/markduplicates/PARTKH-10A/PARTKH-10A.md.cram,./preprocessing/markduplicates/PARTKH-10A/PARTKH-10A.md.cram.crai
+PARTKH,XY,1,PARTKH-01A,./preprocessing/markduplicates/PARTKH-01A/PARTKH-01A.md.cram,./preprocessing/markduplicates/PARTKH-01A/PARTKH-01A.md.cram.crai
+PARUGK,XY,0,PARUGK-10A,./preprocessing/markduplicates/PARUGK-10A/PARUGK-10A.md.cram,./preprocessing/markduplicates/PARUGK-10A/PARUGK-10A.md.cram.crai
+PARUGK,XY,1,PARUGK-01A,./preprocessing/markduplicates/PARUGK-01A/PARUGK-01A.md.cram,./preprocessing/markduplicates/PARUGK-01A/PARUGK-01A.md.cram.crai
+PARZRH,XY,0,PARZRH-10A,./preprocessing/markduplicates/PARZRH-10A/PARZRH-10A.md.cram,./preprocessing/markduplicates/PARZRH-10A/PARZRH-10A.md.cram.crai
+PARZRH,XY,1,PARZRH-01A,./preprocessing/markduplicates/PARZRH-01A/PARZRH-01A.md.cram,./preprocessing/markduplicates/PARZRH-01A/PARZRH-01A.md.cram.crai
+PASABD,XX,0,PASABD-10A,./preprocessing/markduplicates/PASABD-10A/PASABD-10A.md.cram,./preprocessing/markduplicates/PASABD-10A/PASABD-10A.md.cram.crai
+PASABD,XX,1,PASABD-01A,./preprocessing/markduplicates/PASABD-01A/PASABD-01A.md.cram,./preprocessing/markduplicates/PASABD-01A/PASABD-01A.md.cram.crai

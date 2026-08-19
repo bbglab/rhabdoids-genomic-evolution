@@ -1,0 +1,11 @@
+patient,sex,status,sample,cram,crai
+PARPFY,XY,0,PARPFY-11A,./preprocessing/recalibrated/PARPFY-11A/PARPFY-11A.recal.cram,./preprocessing/recalibrated/PARPFY-11A/PARPFY-11A.recal.cram.crai
+PARPFY,XY,1,PARPFY-01A,./preprocessing/recalibrated/PARPFY-01A/PARPFY-01A.recal.cram,./preprocessing/recalibrated/PARPFY-01A/PARPFY-01A.recal.cram.crai
+PARTKH,XY,0,PARTKH-10A,./preprocessing/recalibrated/PARTKH-10A/PARTKH-10A.recal.cram,./preprocessing/recalibrated/PARTKH-10A/PARTKH-10A.recal.cram.crai
+PARTKH,XY,1,PARTKH-01A,./preprocessing/recalibrated/PARTKH-01A/PARTKH-01A.recal.cram,./preprocessing/recalibrated/PARTKH-01A/PARTKH-01A.recal.cram.crai
+PARUGK,XY,0,PARUGK-10A,./preprocessing/recalibrated/PARUGK-10A/PARUGK-10A.recal.cram,./preprocessing/recalibrated/PARUGK-10A/PARUGK-10A.recal.cram.crai
+PARUGK,XY,1,PARUGK-01A,./preprocessing/recalibrated/PARUGK-01A/PARUGK-01A.recal.cram,./preprocessing/recalibrated/PARUGK-01A/PARUGK-01A.recal.cram.crai
+PARZRH,XY,0,PARZRH-10A,./preprocessing/recalibrated/PARZRH-10A/PARZRH-10A.recal.cram,./preprocessing/recalibrated/PARZRH-10A/PARZRH-10A.recal.cram.crai
+PARZRH,XY,1,PARZRH-01A,./preprocessing/recalibrated/PARZRH-01A/PARZRH-01A.recal.cram,./preprocessing/recalibrated/PARZRH-01A/PARZRH-01A.recal.cram.crai
+PASABD,XX,0,PASABD-10A,./preprocessing/recalibrated/PASABD-10A/PASABD-10A.recal.cram,./preprocessing/recalibrated/PASABD-10A/PASABD-10A.recal.cram.crai
+PASABD,XX,1,PASABD-01A,./preprocessing/recalibrated/PASABD-01A/PASABD-01A.recal.cram,./preprocessing/recalibrated/PASABD-01A/PASABD-01A.recal.cram.crai
