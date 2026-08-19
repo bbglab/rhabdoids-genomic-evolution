@@ -1,0 +1,17 @@
+patient,sex,status,sample,lane,fastq_1,fastq_2
+pt6,XY,1,AX4942,H7VYCDSXF_1,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_1_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_1_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,H7VYCDSXF_1,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_1_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_1_261UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4942,H7VYCDSXF_2,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_2_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_2_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,H7VYCDSXF_2,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_2_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_2_261UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4942,H7VYCDSXF_3,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_3_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_3_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,H7VYCDSXF_3,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_3_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_3_261UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4942,H7VYCDSXF_4,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_4_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_4_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,H7VYCDSXF_4,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_4_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/H7VYCDSXF_4_261UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4942,HCTHHDSXF_1,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_1_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_1_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,HCTHHDSXF_1,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_1_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_1_261UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4942,HCTHHDSXF_2,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_2_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_2_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,HCTHHDSXF_2,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_2_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_2_261UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4942,HCTHHDSXF_3,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_3_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_3_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,HCTHHDSXF_3,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_3_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_3_261UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4942,HCTHHDSXF_4,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_4_249UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_4_249UDI-idt-UMI_2.fastq.gz
+pt6,XY,1,AX4943,HCTHHDSXF_4,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_4_261UDI-idt-UMI_1.fastq.gz,/data/bbg/datasafe/rhabdoids/LOPEBIG_59/20250604/FASTQ/HCTHHDSXF_4_261UDI-idt-UMI_2.fastq.gz

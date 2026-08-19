@@ -1,0 +1,4 @@
+patient,sex,status,sample,cram,crai
+pt3,XY,0,AX4895,./preprocessing/recalibrated/AX4895/AX4895.recal.cram,./preprocessing/recalibrated/AX4895/AX4895.recal.cram.crai
+pt3,XY,1,AX4946,./preprocessing/recalibrated/AX4946/AX4946.recal.cram,./preprocessing/recalibrated/AX4946/AX4946.recal.cram.crai
+pt3,XY,1,AX4947,./preprocessing/recalibrated/AX4947/AX4947.recal.cram,./preprocessing/recalibrated/AX4947/AX4947.recal.cram.crai
