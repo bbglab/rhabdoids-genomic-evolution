@@ -1,0 +1,7 @@
+patient,sex,status,sample,cram,crai
+PMC01,XX,0,BLOOD,./preprocessing/recalibrated/BLOOD/BLOOD.recal.cram,./preprocessing/recalibrated/BLOOD/BLOOD.recal.cram.crai
+PMC01,XX,1,DIAF,./preprocessing/recalibrated/DIAF/DIAF.recal.cram,./preprocessing/recalibrated/DIAF/DIAF.recal.cram.crai
+PMC01,XX,1,HK,./preprocessing/recalibrated/HK/HK.recal.cram,./preprocessing/recalibrated/HK/HK.recal.cram.crai
+PMC01,XX,1,LN,./preprocessing/recalibrated/LN/LN.recal.cram,./preprocessing/recalibrated/LN/LN.recal.cram.crai
+PMC01,XX,1,LNMETA,./preprocessing/recalibrated/LNMETA/LNMETA.recal.cram,./preprocessing/recalibrated/LNMETA/LNMETA.recal.cram.crai
+PMC01,XX,1,OMEN,./preprocessing/recalibrated/OMEN/OMEN.recal.cram,./preprocessing/recalibrated/OMEN/OMEN.recal.cram.crai
