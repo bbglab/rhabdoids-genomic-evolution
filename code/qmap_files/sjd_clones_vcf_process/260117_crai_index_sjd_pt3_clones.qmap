@@ -1,8 +1,0 @@
-[pre]
-. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
-conda activate samtools
-[params]
-cores = 32
-memory = 200G
-[jobs]
-samtools index -@ 32 /data/bbg/datasets/rhabdoid_tumors/sjd_cohort/sarek_results/preprocessing/recalibrated/AX4895/AX4895.recal.cram -o /data/bbg/datasets/rhabdoid_tumors/sjd_cohort/sarek_results/preprocessing/recalibrated/AX4895/AX4895.recal.crai
