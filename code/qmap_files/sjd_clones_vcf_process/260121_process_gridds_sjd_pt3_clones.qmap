@@ -1,9 +1,0 @@
-[pre]
-. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
-conda activate rhabdoids
-[params]
-cores = 1
-memory = 8G
-[jobs]
-python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_gridds.py -i /data/bbg/datasets/rhabdoid_tumors/sjd_cohort/oncoanalyser_results/output/pt3_1_1/purple/AX4946.purple.sv.vcf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4946_vs_AX4895/process_sv/gridds/ -gp /data/bbg/projects/rhabdoid_tumors/data/ensembl111_genomic_regions_mane.tsv.gz -mt /data/bbg/datasets/mane_transcripts/mane_transcripts/data/MANE.GRCh38.v1.2.summary.txt.gz -t_id AX4946 -n_id AX4895
-python /data/bbg/projects/rhabdoid_tumors/code/python_scripts/process_gridds.py -i /data/bbg/datasets/rhabdoid_tumors/sjd_cohort/oncoanalyser_results/output/pt3_1_2/purple/AX4947.purple.sv.vcf.gz -o /data/bbg/projects/rhabdoid_tumors/mafs_sjd/pt3/AX4947_vs_AX4895/process_sv/gridds/ -gp /data/bbg/projects/rhabdoid_tumors/data/ensembl111_genomic_regions_mane.tsv.gz -mt /data/bbg/datasets/mane_transcripts/mane_transcripts/data/MANE.GRCh38.v1.2.summary.txt.gz -t_id AX4947 -n_id AX4895

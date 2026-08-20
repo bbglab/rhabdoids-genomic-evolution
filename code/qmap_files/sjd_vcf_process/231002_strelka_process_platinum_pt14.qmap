@@ -1,9 +1,0 @@
-[pre]
-. "/home/$USER/miniconda3/etc/profile.d/conda.sh"
-conda activate rhabdoids
-[params]
-cores = 1
-memory = 20G
-[jobs]
-python /workspace/projects/rhabdoid_tumors/code/python_scripts/process_strelka_v2.9.10_vcf.py -i /workspace/datasets/rhabdoid_tumors/platinum_results/pt14-t1-rhabdoids-t1/sarek_results/results/variant_calling/strelka/AX4928_vs_AQ5174/AX4928_vs_AQ5174.strelka.somatic_snvs.vcf.gz -o /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4928_vs_AQ5174/vcf_processing/strelka/ -t_id AX4928 -n_id AQ5174
-python /workspace/projects/rhabdoid_tumors/code/python_scripts/process_strelka_v2.9.10_vcf.py -i /workspace/datasets/rhabdoid_tumors/platinum_results/pt14-t2-rhabdoids-t2/sarek_results/results/variant_calling/strelka/AX4929_vs_AQ5174/AX4929_vs_AQ5174.strelka.somatic_snvs.vcf.gz -o /workspace/projects/rhabdoid_tumors/mafs_platinum/pt14/AX4929_vs_AQ5174/vcf_processing/strelka/ -t_id AX4929 -n_id AQ5174
