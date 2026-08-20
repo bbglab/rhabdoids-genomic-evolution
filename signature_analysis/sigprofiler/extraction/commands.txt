@@ -1,0 +1,21 @@
+#prepare muts table in a jupyter notebook
+#save vcf files at analysis/250617_stjude_mapp_genome/allmuts/
+# cd to the directory
+
+interactive -c 24 --mem 100G
+conda activate sigprofiler
+
+-----WITH SCRIPT-----------
+python3 /data/bbg/projects/rhabdoid_tumors/code/python_scripts/sigprofiler.py --project_name allmuts --genome GRCh38 --path_to_vcf_files /data/bbg/projects/rhabdoid_tumors/signatures/extraction/sigprofiler/analysis/250617_stjude_mapp_genome/allmuts/ --input_type matrix --output results --min_sigs 2 --max_sigs 10 --nmf_replicates 100 --cpu 24
+
+#scaling to mappable genome triplet count
+python3 /data/bbg/projects/rhabdoid_tumors/code/python_scripts/sigprofiler.py --project_name clonal --genome GRCh38 --path_to_vcf_files /data/bbg/projects/rhabdoid_tumors/signatures/extraction/sigprofiler/analysis/240827_target_mapp_genome/clonal/ --scaled --cosmic_counts /data/bbg/projects/pileup_mappability/COSMIC_data/context_counts_GRCh38_96.csv --target_genome_counts /data/bbg/projects/pileup_mappability/hg38/hg38_mappable_genome.trinucleotide_counts.json --round_error_correction 8.3 --input_type matrix --output results --min_sigs 2 --max_sigs 10 --nmf_replicates 100 --cpu 12
+
+
+-----MANUAL ON TERMINAL ----------
+$ python3
+>>from SigProfilerMatrixGenerator.scripts import SigProfilerMatrixGeneratorFunc as matGen
+>>matrices = matGen.SigProfilerMatrixGeneratorFunc(project='allmuts', reference_genome='GRCh38', path_to_input_files='/data/bbg/projects/rhabdoid_tumors/signatures/extraction/sigprofiler/analysis/250617_stjude_mapp_genome/allmuts/', exome=False, bed_file=None, chrom_based=False, plot=False, tsb_stat=False, seqInfo=False)
+
+>>> from SigProfilerExtractor import sigpro as sig
+>>> sig.sigProfilerExtractor(input_type='matrix', output='results', input_data='output/SBS/allmuts.SBS96.all',reference_genome='GRCh38',opportunity_genome='GRCh38',minimum_signatures=2,maximum_signatures=10,nmf_replicates=100, cpu=24)
