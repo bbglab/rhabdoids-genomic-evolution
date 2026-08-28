@@ -1,7 +1,7 @@
 # How to run the variant calling pipelines
 
 You can run directly the variant calling steps with the CRAM files downloaded from EGAXXX (SJD and PMC samples).
-TARGET program and StJude Cloud samples need to be converted into FASTQ files and run the alignment with the same reference gemome.
+TARGET program and StJude Cloud samples need to be converted into FASTQ files and run the alignment with the same reference genome.
 
 ## Extract FASTQ files from CRAM files:
 
