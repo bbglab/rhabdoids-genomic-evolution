@@ -1,0 +1,13 @@
+group_id,subject_id,sample_id,sample_type,sequence_type,filetype,filepath
+PAEHIP_1,PAEHIP,PAEHIP-10A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAEHIP-10A/PAEHIP-10A.recal.bam
+PAEHIP_1,PAEHIP,PAEHIP-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAEHIP-01A/PAEHIP-01A.recal.bam
+PAJLWM_1,PAJLWM,PAJLWM-11A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJLWM-11A/PAJLWM-11A.recal.bam
+PAJLWM_1,PAJLWM,PAJLWM-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJLWM-01A/PAJLWM-01A.recal.bam
+PAJMRB_1,PAJMRB,PAJMRB-11A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJMRB-11A/PAJMRB-11A.recal.bam
+PAJMRB_1,PAJMRB,PAJMRB-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJMRB-01A/PAJMRB-01A.recal.bam
+PAJNER_1,PAJNER,PAJNER-11A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJNER-11A/PAJNER-11A.recal.bam
+PAJNER_1,PAJNER,PAJNER-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJNER-01A/PAJNER-01A.recal.bam
+PAJNFP_1,PAJNFP,PAJNFP-11A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJNFP-11A/PAJNFP-11A.recal.bam
+PAJNFP_1,PAJNFP,PAJNFP-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAJNFP-01A/PAJNFP-01A.recal.bam
+PAKHTL_1,PAKHTL,PAKHTL-11A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAKHTL-11A/PAKHTL-11A.recal.bam
+PAKHTL_1,PAKHTL,PAKHTL-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PAKHTL-01A/PAKHTL-01A.recal.bam

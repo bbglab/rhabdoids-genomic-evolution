@@ -1,0 +1,11 @@
+group_id,subject_id,sample_id,sample_type,sequence_type,filetype,filepath
+PARPFY_1,PARPFY,PARPFY-11A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARPFY-11A/PARPFY-11A.recal.bam
+PARPFY_1,PARPFY,PARPFY-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARPFY-01A/PARPFY-01A.recal.bam
+PARTKH_1,PARTKH,PARTKH-10A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARTKH-10A/PARTKH-10A.recal.bam
+PARTKH_1,PARTKH,PARTKH-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARTKH-01A/PARTKH-01A.recal.bam
+PARUGK_1,PARUGK,PARUGK-10A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARUGK-10A/PARUGK-10A.recal.bam
+PARUGK_1,PARUGK,PARUGK-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARUGK-01A/PARUGK-01A.recal.bam
+PARZRH_1,PARZRH,PARZRH-10A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARZRH-10A/PARZRH-10A.recal.bam
+PARZRH_1,PARZRH,PARZRH-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PARZRH-01A/PARZRH-01A.recal.bam
+PASABD_1,PASABD,PASABD-10A,normal,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PASABD-10A/PASABD-10A.recal.bam
+PASABD_1,PASABD,PASABD-01A,tumor,dna,bam,/workspace/datasets/rhabdoid_tumors/target_cohort/gdc/sarek_results/preprocessing/recalibrated/PASABD-01A/PASABD-01A.recal.bam
