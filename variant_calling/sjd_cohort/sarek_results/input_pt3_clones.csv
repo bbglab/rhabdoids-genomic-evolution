@@ -1,5 +1,0 @@
-patient,sex,status,sample,lane,fastq_1,fastq_2
-pt3,XY,1,AX4946,22FTNGLT1_2,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/22FTNGLT1_2_85UDI-idt-UMI_1.fastq.gz,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/22FTNGLT1_2_85UDI-idt-UMI_2.fastq.gz
-pt3,XY,1,AX4947,22FTNGLT1_2,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/22FTNGLT1_2_2UDI-idt-UMI_1.fastq.gz,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/22FTNGLT1_2_2UDI-idt-UMI_2.fastq.gz
-pt3,XY,1,AX4946,237YY3LT4_1,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/237YY3LT4_1_85UDI-idt-UMI_1.fastq.gz,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/237YY3LT4_1_85UDI-idt-UMI_2.fastq.gz
-pt3,XY,1,AX4947,237YY3LT4_1,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/237YY3LT4_1_2UDI-idt-UMI_1.fastq.gz,/data/bbg/datasets/rhabdoid_tumors/LOPEBIG_61/20260115/FASTQ/237YY3LT4_1_2UDI-idt-UMI_2.fastq.gz
