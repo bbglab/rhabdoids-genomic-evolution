@@ -8,17 +8,17 @@ This repository contains the necessary code to reproduce the analysis of "Variab
       - SJD and PMC rhabdoid samples: EGA repository EGADXXXXXX
       - TARGET rhabdoid samples: dbGaP Study Accession phs000470.v19.p8
       - StJude rhabdoid samples: StJude Cloud
-   - Generate variant calling folders :
-     - With [sarek pipeline](https://github.com/nf-core/sarek). Following the `commands.txt` file in each folder:
+   - Generate variant calling folders following the instructions on the README in `.variant_calling/`
+     - Point the output of [sarek pipeline](https://github.com/nf-core/sarek) in the following folders:
        - `./variant_calling/sjd_cohort/sarek_results/sjd_variant_calling/`
        - `./variant_calling/target_cohort/sarek_results/sjd_variant_calling/`
        - `./variant_calling/stjude_cohort/sarek_results/sjd_variant_calling/`
        - `./variant_calling/pmc_case/sarek_results/sjd_variant_calling/`
-     - With [oncoanalyser pipeline](https://github.com/nf-core/oncoanalyser). Following the `commands.txt` file in each folder:
-       - `./variant_calling/sjd_cohort/oncoanalyser_results/`
-       - `./variant_calling/target_cohort/oncoanalyser_results/`
-       - `./variant_calling/stjude_cohort/oncoanalyser_results/`
-       - `./variant_calling/pmc_case/oncoanalyser_results/`
+     - Point the output of [oncoanalyser pipeline](https://github.com/nf-core/oncoanalyser) in the following folders:
+       - `./variant_calling/sjd_cohort/oncoanalyser_results/outpout/`
+       - `./variant_calling/target_cohort/oncoanalyser_results/output/`
+       - `./variant_calling/stjude_cohort/oncoanalyser_results/output/`
+       - `./variant_calling/pmc_case/oncoanalyser_results/output/`
    -  Generate the processed mafs folders using the qmap files at `./code/qmap_files/` (See README)
 2. Run figure notebooks:
    - Run the figure notebooks in order (01, 02, 03, ..., 14)
