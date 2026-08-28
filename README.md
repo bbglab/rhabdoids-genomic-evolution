@@ -19,7 +19,7 @@ This repository contains the necessary code to reproduce the analysis of "Variab
        - `./variant_calling/target_cohort/oncoanalyser_results/output/`
        - `./variant_calling/stjude_cohort/oncoanalyser_results/output/`
        - `./variant_calling/pmc_case/oncoanalyser_results/output/`
-   -  Generate the processed mafs folders using the qmap files at `./code/qmap_files/` (See README)
+   -  Generate the processed mafs folders following the instructions on the README in `./code/qmap_files/`
 2. Run figure notebooks:
    - Run the figure notebooks in order (01, 02, 03, ..., 14)
    - The necessary files are stored at the folders in this repository (`./ccf_thresholds`, `./clinical_data`, etc.)
