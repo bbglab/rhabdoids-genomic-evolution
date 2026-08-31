@@ -1,4 +1,4 @@
-# QMAP files to create the processed maf files from the variant calling files form sarek and oncoanalyser ppipelines
+# QMAP files to create the processed maf files from the variant calling pipelines output (sarek and oncoanalyser)
 
 The notebook `qmap_process_vcf_files_from_sarek_oncoanalyser.ipynb` has the necessary code to build the 14 qmap files that generate the processed maf files in
 `/mafs/maf_sjd/`, `/mafs/maf_target/`, `/mafs/maf_stjude/` and `/mafs/maf_pmc/`.
