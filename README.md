@@ -5,7 +5,7 @@ This repository contains the necessary code to reproduce the analysis of "Variab
 
 1. Prepare variant calling data folders:
    - Request access to the CRAM files:
-      - SJD and PMC rhabdoid samples: EGA repository EGADXXXXXX
+      - SJD and PMC rhabdoid samples: EGA repository study ID EGAS50000002082
       - TARGET rhabdoid samples: dbGaP Study Accession phs000470.v19.p8
       - StJude rhabdoid samples: StJude Cloud
    - Generate variant calling folders following the instructions on the README in `.variant_calling/`
